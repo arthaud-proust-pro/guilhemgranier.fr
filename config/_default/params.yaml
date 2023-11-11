@@ -1,1 +1,16 @@
 _merge: deep
+animation: true
+posts:
+  _merge: deep
+  thumbnail:
+    _merge: deep
+    desktop: "500x375"
+    mobile: "300x225"
+    scrollsnap: "240x180"
+services:
+  _merge: deep
+  thumbnail:
+    _merge: deep
+    desktop: "500x375"
+    mobile: "300x225"
+    scrollsnap: "240x180"
