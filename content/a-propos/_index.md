@@ -7,8 +7,12 @@ image:
 hero:
   cta:
     blank: false
+    text: Voir les services
+    url: /services
   cta_second:
     blank: false
+    text: Contacter Guilhem
+    url: /contact
   align: start
   image:
     darken: true
