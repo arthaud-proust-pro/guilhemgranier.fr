@@ -44,7 +44,7 @@ blocks:
     heading:
       title: Services
     items:
-      - service-exemple
+      - service-a
       - service-b
       - service-c
   - type: cta
