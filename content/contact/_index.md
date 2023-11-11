@@ -51,13 +51,14 @@ blocks:
         label: Ma demande
     heading:
       title: Envoyer ma demande de contact
+      text: G﻿uilhem vous répondra dans les meilleurs délais
   - type: map
     zoom: 13
     grid: large
     background: true
     heading:
       title: Où est situé Guilhem ?
-      text: Situé dans le quartier du Jardin Public, il peux se rendre rapidement dans
-        Bordeaux
+      text: Situé dans le quartier du **Jardin Public**, il peux se rendre rapidement
+        dans Bordeaux
     location: '{"type":"Point","coordinates":[-0.5797037,44.849067]}'
 ---

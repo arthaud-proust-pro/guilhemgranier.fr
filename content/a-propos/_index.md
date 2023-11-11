@@ -2,6 +2,8 @@
 isPage: true
 draft: false
 title: À propos
+description: Guilhem Granier possède de multiples expériences dans le monde
+  sportif. Il a entraîné un grand nombre d’athlètes de manière qualitative.
 image:
   src: /images/uploads/guilhem-en-action.jpg
 hero:
@@ -17,8 +19,10 @@ hero:
   image:
     darken: true
     src: /images/uploads/guilhem-en-action.jpg
-  surtitle: Guilhem Granier
+  surtitle: ""
   title: À propos
+  text: Guilhem Granier possède de multiples expériences dans le monde sportif. Il
+    a entraîné un grand nombre d’athlètes de manière qualitative.
 blocks:
   - type: paragraph
     grid: medium
