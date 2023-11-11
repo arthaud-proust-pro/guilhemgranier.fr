@@ -4,12 +4,9 @@ imports:
 
 # Site specific imports
 - path: github.com/hugolify/hugolify-theme-services
-- path: github.com/hugolify/hugolify-theme-services-persons
-- path: github.com/hugolify/hugolify-theme-posts-authors
 - path: github.com/hugolify/hugolify-theme-posts-categories
 - path: github.com/hugolify/hugolify-theme-posts-tags
 - path: github.com/hugolify/hugolify-theme-posts
-- path: github.com/hugolify/hugolify-theme-persons
 
 # Core theme
 - path: github.com/hugolify/hugolify-theme
