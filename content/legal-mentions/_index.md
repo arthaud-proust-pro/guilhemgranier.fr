@@ -1,20 +1,20 @@
 ---
 isPage: true
 draft: false
-title: Legal mentions
-description: Legal mentions page
+title: Mentions légales
+description: Page des mentions légales
 ---
-## Welcome to demo.hugolify.io
+## Bienvenue sur guilhemgranier.fr
 
-By using this site, you acknowledge having read the provisions below and you agree to respect them. The legal notices indicated below may change, we invite you to consult them regularly.
+En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions ci-dessous et vous vous engagez à les respecter. Les mentions légales indiquées ci-dessous peuvent changer, nous vous invitons à les consulter régulièrement.
 
-## Editor
+## Éditeur
 
-The demo.hugolify.io website is the property of {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
+Le site guilhemgranier.fr est édité par Guilhem Granier.
 
-## Hosting
+## Hébergement
 
-The site demo.hugolify.io is hosted at:
+Le site guilhemgranier.fr est hébergé par :
 
 Netlify,\
 2325 3rd Street, \
@@ -27,4 +27,6 @@ https://www.netlify.com
 
 ## Conception
 
-This site was designed with [Hugolify](https://www.hugolify.io), an open-source Jamstack solution, which allows you to design a site that is as environmentally friendly as possible and closest to accessibility criteria.
+Le site guilhemgranier.fr est développé par {{< blank_link link="https://arthaudproust.fr" text="Arthaud Proust" >}}.
+
+Ce site a été conçu avec [Hugolify](https://www.hugolify.io), une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et le plus proche des critères d'accessibilité.

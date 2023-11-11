@@ -1,0 +1,8 @@
+---
+isIndex: false
+draft: false
+date: 2023-11-11T11:26:46.371Z
+title: Exemple d'actualité
+authors:
+  - guilhem-granier
+---

@@ -18,5 +18,7 @@ require (
 	github.com/hugolify/hugolify-theme-projects-types v1.0.10 // indirect
 	github.com/hugolify/hugolify-theme-publications v1.2.0 // indirect
 	github.com/hugolify/hugolify-theme-publications-persons v1.1.2 // indirect
+	github.com/hugolify/hugolify-theme-services v1.0.0 // indirect
+	github.com/hugolify/hugolify-theme-services-persons v0.0.0-20231104162927-043a904fc94a // indirect
 	github.com/twbs/bootstrap v5.3.1+incompatible // indirect
 )
