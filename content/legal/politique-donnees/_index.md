@@ -1,7 +1,8 @@
 ---
 isPage: true
 draft: false
-title: Politique de données
+title: Politique des données
+description: Notre politique en terme de données personnelles
 ---
 ## Données personnelles
 

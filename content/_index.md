@@ -22,4 +22,31 @@ blocks:
       src: /images/uploads/guilhem-en-action.jpg
     text: Découvrez les différentes expériences qui m'ont apporté l'expertise que
       j'ai aujourd'hui
+  - type: latest
+    count: 3
+    show_more: true
+    background: true
+    heading:
+      title: Dernières actualités
+    section: posts
+  - type: selected-services
+    section: services
+    show_more: true
+    background: false
+    heading:
+      title: Services
+    items:
+      - service-exemple
+      - service-b
+      - service-c
+  - type: cta
+    cta:
+      blank: false
+      url: /contact
+      text: Me contacter
+    cta_second:
+      blank: false
+    background: true
+    heading:
+      title: Travaillons ensemble
 ---

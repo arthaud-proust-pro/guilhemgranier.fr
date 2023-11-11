@@ -1,8 +1,7 @@
 ---
 isIndex: false
 draft: false
-title: Service A
+title: Service C
 services_persons:
   - guilhem-granier
-description: Exemple de service
 ---

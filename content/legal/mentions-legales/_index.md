@@ -27,6 +27,8 @@ https://www.netlify.com
 
 ## Conception
 
+### Dévelopement
 Le site guilhemgranier.fr est développé par {{< blank_link link="https://arthaudproust.fr" text="Arthaud Proust" >}}.
 
+### Solution
 Ce site a été conçu avec [Hugolify](https://www.hugolify.io), une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et le plus proche des critères d'accessibilité.

@@ -2,22 +2,22 @@
 isPage: true
 title: Contact
 hero:
-  surtitle: Surtitle
-  title: Contact
-  text: Lorem ipsum
-  align: center
+  surtitle: ""
+  title: Me contacter
+  text: Vous souhaitez plus d'informations ?
+  align: start
   image:
     src: ""
     darken: true
     background_image: true
   cta:
-    text: Lorem
-    url: /contact/
+    text: ""
+    url: ""
     blank: false
   cta_second:
-    url: /contact/
+    url: ""
     blank: false
-    text: Ipsum
+    text: ""
 blocks:
   - type: map
     background: false
