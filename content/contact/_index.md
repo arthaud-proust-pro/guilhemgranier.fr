@@ -3,9 +3,10 @@ isPage: true
 title: Contact
 hero:
   surtitle: ""
-  title: Me contacter
-  text: Vous souhaitez plus d'informations ?
-  align: start
+  title: Contacter Guilhem
+  text: J﻿e souhaite plus d'informations, démarrer un entraînement ou encore
+    collaborer avec Guilhem
+  align: center
   image:
     src: ""
     darken: true
@@ -19,40 +20,44 @@ hero:
     blank: false
     text: ""
 blocks:
-  - type: map
+  - type: form
+    grid: small
+    offset: center
     background: false
-    location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
-    zoom: 14
+    name: contact
+    submit: Envoyer ma demande
+    items:
+      - type: text
+        required: true
+        full: true
+        label: Email
+        options: []
+        placeholder: ""
+        autocomplete: email
+      - type: select
+        required: true
+        full: true
+        label: Sujet
+        options:
+          - title: Entraînement
+            value: coaching
+          - title: Demande d'information
+            value: information-request
+          - title: Autre
+            value: other
+      - type: textarea
+        required: true
+        full: true
+        label: Ma demande
     heading:
-      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-        Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-        lectus.
+      title: Envoyer ma demande de contact
+  - type: map
+    zoom: 13
     grid: large
-  - type: faq
     background: true
     heading:
-      title: Frequently asked questions
-      text: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-        lectus.
-    items:
-      - title: Vestibulum sed bibendum lectus?
-        text: >-
-          Duis placerat quam et ante **pellentesque**, et porttitor lectus
-          sollicitudin. Fusce maximus hendrerit eros, sed pulvinar erat pretium
-          eget.
-
-
-          * porttitor
-
-          * fusce maximus
-
-          * pellentesque
-  - type: selected-pages
-    section: pages
-    show_more: true
-    background: false
-    items:
-      - Legal mentions
-      - Privacy policy
+      title: Où est situé Guilhem ?
+      text: Situé dans le quartier du Jardin Public, il peux se rendre rapidement dans
+        Bordeaux
+    location: '{"type":"Point","coordinates":[-0.5797037,44.849067]}'
 ---
