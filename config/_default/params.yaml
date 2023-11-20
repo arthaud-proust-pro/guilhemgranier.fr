@@ -1,5 +1,5 @@
 _merge: deep
-animation: true
+animation: false
 posts:
   _merge: deep
   thumbnail:

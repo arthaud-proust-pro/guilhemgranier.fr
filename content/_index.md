@@ -44,9 +44,9 @@ blocks:
     heading:
       title: Services
     items:
-      - service-a
-      - service-b
-      - service-c
+      - formule-basique
+      - formule-totale
+      - formule-pedagogue
   - type: cta
     cta:
       blank: false
