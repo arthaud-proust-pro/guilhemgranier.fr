@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
+	github.com/hugolify/hugolify-decap-cms v1.9.0 // indirect
 	github.com/hugolify/hugolify-example-site v1.0.19 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.8.1 // indirect
 	github.com/hugolify/hugolify-theme v1.7.37 // indirect
@@ -19,6 +20,7 @@ require (
 	github.com/hugolify/hugolify-theme-publications v1.2.0 // indirect
 	github.com/hugolify/hugolify-theme-publications-persons v1.1.2 // indirect
 	github.com/hugolify/hugolify-theme-services v1.0.0 // indirect
+	github.com/hugolify/hugolify-theme-services-categories v0.0.0-20231104163050-0adf6d80fd40 // indirect
 	github.com/hugolify/hugolify-theme-services-persons v0.0.0-20231104162927-043a904fc94a // indirect
 	github.com/twbs/bootstrap v5.3.1+incompatible // indirect
 )
