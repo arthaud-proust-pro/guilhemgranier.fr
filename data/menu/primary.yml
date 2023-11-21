@@ -4,10 +4,10 @@ links:
     url: /a-propos
   - blank: false
     title: Formules
-    url: /services
+    url: /formules
   - blank: false
     title: Articles
-    url: /news
+    url: /articles
   - blank: false
     title: Nöliö
     url: /nolio
