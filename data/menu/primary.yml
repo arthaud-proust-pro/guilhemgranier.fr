@@ -3,13 +3,13 @@ links:
     title: À propos
     url: /a-propos
   - blank: false
-    title: Services
+    title: Formules
     url: /services
   - blank: false
     title: Articles
     url: /news
   - blank: false
-    title: Nolio
+    title: Nöliö
     url: /nolio
   - blank: false
     title: Contact

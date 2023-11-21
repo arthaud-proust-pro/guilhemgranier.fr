@@ -39,10 +39,14 @@ blocks:
     section: posts
   - type: selected-services
     section: services
-    show_more: true
+    show_more: false
     background: false
     heading:
-      title: Services
+      title: Formules
+      text: Guilhem met à votre disposition des entraînements individualisés en
+        escalade de haut niveau. Maximisez votre potentiel sportif grâce à des
+        analyses basées sur des métriques précises et l’utilisation de l’outil
+        innovant Nöliö.
     items:
       - formule-basique
       - formule-totale
