@@ -4,6 +4,9 @@ draft: false
 title: Formule Basique
 services_persons:
   - guilhem-granier
+price_per_unit:
+  price: 45
+  unit: mois
 description: Tests d'évaluation initiaux, plan physique adapté à l'escalade,
   suivi Nöliö pour ajustements et retours qualitatifs des séances.
 image:

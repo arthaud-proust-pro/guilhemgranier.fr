@@ -4,6 +4,9 @@ draft: false
 title: Formule Totale
 services_persons:
   - guilhem-granier
+price_per_unit:
+  price: 80
+  unit: mois
 description: La formule basique + Tests intermédiaires, suivi détaillé sur
   Nöliö, VFC, présence soutien technique à des séances-types.
 image:

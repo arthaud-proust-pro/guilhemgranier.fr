@@ -4,6 +4,9 @@ draft: false
 title: Formule Pédagogue
 services_persons:
   - guilhem-granier
+price_per_unit:
+  price: 200
+  unit: 6 mois
 description: Autonomie visée, planification personnelle, étude & réglages
   ensemble, accès Nöliö Premium, visio régulières pour ajustements.
 image:
@@ -13,7 +16,5 @@ C’est l’idée de vous accompagner vers votre propre autonomie en terme de p
 
 * vous planifiez vous même vos séances en fonction de vos objectifs
 * j’étudie votre plan avant que vous ne le commenciez
-* nous faisons une visio de 1h30/2h pour discuter de ce qui fonctionne ou pas, nous régulons
-
-  ensemble
+* nous faisons une visio de 1h30/2h pour discuter de ce qui fonctionne ou pas, nous régulons ensemble
 * vous avez accès à un compte [Nöliö](/nolio) Premium qui vous permet de fonctionner en tant que coach - une visio toutes les 2/3 semaines pour faire un point au cours d’un bloc de travail et le réguler
