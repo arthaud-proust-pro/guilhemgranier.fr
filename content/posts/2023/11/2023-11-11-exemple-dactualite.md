@@ -8,3 +8,4 @@ authors:
 image:
   src: /images/uploads/guilhem-vtt-luminy.jpg
 ---
+{{< figure src="guilhem-en-action.jpg" alt="" legend="test" credit="" >}}
