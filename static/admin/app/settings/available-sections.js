@@ -1,4 +1,4 @@
 export const availableSections = [
-    'posts' ,
     'services',
+    'persons',
 ]

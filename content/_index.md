@@ -30,13 +30,14 @@ blocks:
       src: /images/uploads/guilhem-en-action.jpg
     text: Guilhem Granier possède de multiples expériences dans le monde sportif. Il
       a entraîné un grand nombre d'athlètes de manière qualitative.
-  - type: latest
-    count: 3
+  - type: selected-pages
+    section: pages
     show_more: true
     background: true
+    items:
+      - S'entraîner en escalade, c'est pour les forts ?
     heading:
-      title: Dernières actualités
-    section: posts
+      title: Articles
   - type: selected-services
     section: services
     show_more: false
