@@ -1,3 +1,2 @@
 _merge: deep
-posts: /articles/:slug/
 services: /formules/:slug/
