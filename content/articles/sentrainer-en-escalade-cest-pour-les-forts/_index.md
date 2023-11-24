@@ -9,16 +9,17 @@ hero:
     blank: false
   cta_second:
     blank: false
-  align: start
+  align: center
   image:
     darken: true
     src: /images/uploads/img9.jpg
+    background_image: true
   text: ""
   title: S'entraîner en escalade, c'est pour les forts ?
 blocks:
   - type: paragraph
     grid: small
-    offset: start
+    offset: center
     align: start
     cta:
       blank: false
@@ -53,7 +54,7 @@ blocks:
     title: Introduction
   - type: paragraph
     grid: small
-    offset: start
+    offset: center
     align: start
     cta:
       blank: false
@@ -80,8 +81,10 @@ blocks:
 
       Il y a peut-être aussi l’idée que de chercher à progresser en réfléchissant sa pratique, en périodisant son travail, en visant à développer certaines qualités peut **donner l’impression de se prendre au sérieux dans une activité** où l’amusement prévaut.
     title: Sortir des sentiers battus
-  - type: editorial
-    direction: rtl
+  - type: paragraph
+    grid: small
+    offset: center
+    align: start
     cta:
       blank: false
     background: false
@@ -90,12 +93,16 @@ blocks:
       structurés** où se croisent des séances de récupération, de volume
       (endurance), de seuil, de développement de la vitesse maximale aérobie, de
       travail technique sur la foulée ...
-    image:
-      src: /images/uploads/img18.jpg
     title: L'exemple du running
+  - type: figure
+    grid: medium
+    offset: center
+    background: false
+    figure:
+      src: /images/uploads/img18.jpg
   - type: paragraph
     grid: small
-    offset: start
+    offset: center
     align: start
     cta:
       blank: false
@@ -113,8 +120,10 @@ blocks:
 
 
       Les amateurs ne souffrent d’aucun complexe pour mettre en place des entraînements qui n’ont rien à envier à ceux des élites, tout en ne bénéficiant pas d’aménagement du temps travail, en gérant leur famille, sans suivi médical ad hoc, ce qui est encore plus difficile.
-  - type: editorial
-    direction: ltr
+  - type: paragraph
+    grid: small
+    offset: center
+    align: start
     cta:
       blank: false
     background: false
@@ -132,11 +141,15 @@ blocks:
 
       Des concours de suspension à deux mains sur une réglette de 7mm ?
     title: Alors pourquoi si peu de choses visibles en escalade ?
-    image:
+  - type: figure
+    grid: medium
+    offset: center
+    background: false
+    figure:
       src: /images/uploads/img36.jpg
   - type: paragraph
     grid: small
-    offset: start
+    offset: center
     align: start
     cta:
       blank: false
@@ -161,7 +174,7 @@ blocks:
       C’est donc aux autres, et il y en a beaucoup, que ce billet s’adresse. À ceux qui ont une autre approche, sans doute liée à un héritage provenant d’un autre sport où s’entraîner de façon rationnelle est commun.
   - type: paragraph
     grid: small
-    offset: start
+    offset: center
     align: start
     cta:
       blank: false
@@ -180,14 +193,14 @@ blocks:
       Faire une **démarche rationnelle et mesurée** d’entraînement n’est pas réservé aux universitaires ou aux champions !
     title: S’entraîner, c’est une expérience scientifique sur soi
   - type: figure
-    grid: full
-    offset: start
+    grid: medium
+    offset: center
     background: false
     figure:
       src: /images/uploads/img45.jpg
   - type: paragraph
-    grid: large
-    offset: start
+    grid: small
+    offset: center
     align: start
     cta:
       blank: false
@@ -198,4 +211,22 @@ blocks:
 
 
       On a un volume de travail (heures), une ou plusieurs tâches (courir, s’étirer, faire du bloc, etc ...), une notion d’intensité (facile, difficile ...) et un ressenti (je me sens hyper bien, je me sens lourd, etc ...)
+  - type: paragraph
+    grid: small
+    offset: center
+    align: start
+    cta:
+      blank: false
+    background: false
+    title: S’entraîner c’est apprendre à se connaître
+    text: Adapter les formes de travail à ses capacités (à finir)
+  - type: paragraph
+    grid: small
+    offset: center
+    align: start
+    cta:
+      blank: false
+    background: false
+    title: S’entraîner, c’est sortir de la monotonie !
+    text: (à finir)
 ---
