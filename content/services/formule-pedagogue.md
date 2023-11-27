@@ -7,8 +7,9 @@ services_persons:
 price_per_unit:
   price: 200
   unit: 6 mois
-description: Autonomie visée, planification personnelle, étude & réglages
-  ensemble, accès Nöliö Premium, visio régulières pour ajustements.
+description: Construisez vous-même votre plain avec mon aide et mes régulations.
+  Planification personnelle, étude ensemble, accès Nöliö Premium, visios
+  régulières pour ajustements.
 image:
   src: /images/uploads/climber-recording-video-by-nathan-c.jpg
 ---
