@@ -1,7 +1,7 @@
 ---
 isIndex: true
 draft: false
-title: Préparateur sportif d'escalade à Bordeaux
+title: Préparateur sportif escalade à Bordeaux
 description: Guilhem met à votre disposition des entraînements individualisés en
   escalade de haut niveau. Maximisez votre potentiel sportif grâce à des
   analyses basées sur des métriques précises et l’utilisation de l’outil
