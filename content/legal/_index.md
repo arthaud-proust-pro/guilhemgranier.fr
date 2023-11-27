@@ -1,5 +1,5 @@
 ---
-isPage: true
+isIndex: true
 draft: false
 title: Légal
 hero:
