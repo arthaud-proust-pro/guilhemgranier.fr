@@ -1,0 +1,12 @@
+{{ define "head" }}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ partialCached "head/css.html" . }}
+  {{ partial "head/canonical.html" . }}
+  {{ partial "head/seo.html" . }}
+  {{ partial "head/favicons.html" . }}
+  {{ partial "head/rss.html" . }}
+
+  <!-- Include the script that enables Netlify Identity on this page. -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{ end }}
