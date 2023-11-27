@@ -1,10 +1,10 @@
 links:
   - blank: false
-    title: Mention légales
-    url: /legal/mentions-legales
-  - blank: false
-    title: Politique des données
-    url: /legal/politique-donnees
+    title: Légal
+    url: /legal
   - blank: false
     title: Plan du site
     url: /plan-du-site
+  - blank: true
+    title: Accès admin
+    url: /admin
