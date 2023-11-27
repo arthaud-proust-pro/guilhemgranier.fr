@@ -96,8 +96,8 @@ blocks:
       blank: false
     background: false
     title: "Pratique personnelle   "
-    text: D’abord vététiste, puis traileur, puis raideur … j’ai touché à beaucoup
-      d’activités d’endurance.
+    text: D’abord vététiste, puis traileur, puis pratiquant de raid multi-sports …
+      j’ai touché à beaucoup d’activités d’endurance.
   - type: gallery
     column: 3
     background: false
