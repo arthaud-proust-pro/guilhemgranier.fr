@@ -7,8 +7,8 @@ services_persons:
 price_per_unit:
   price: 45
   unit: mois
-description: Tests d'évaluation initiaux, plan physique adapté à l'escalade,
-  suivi Nöliö pour ajustements et retours qualitatifs des séances.
+description: Tests d'évaluation initiaux, planification individuelle adaptée à
+  l'escalade, suivi Nöliö pour ajustements et retours qualitatifs des séances.
 image:
   credit: Photo de [Nathan
     Cima](https://unsplash.com/fr/@nathan_cima?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
