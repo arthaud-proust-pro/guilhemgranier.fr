@@ -2,3 +2,13 @@
    --bs-aspect-ratio: 40%
 .post .media
     --bs-aspect-ratio: 75%
+
+.hero
+   &-media
+      @extend .offset-xl-3
+      @include media-breakpoint-down(md)
+         order: -1
+         @include margin-bottom($global-spacing)
+
+   img
+      margin-top: 0
