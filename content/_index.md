@@ -60,7 +60,7 @@ blocks:
       blank: false
     background: true
     heading:
-      title: Vous faites de l'escalade à haut niveau ?
+      title: Vous faites de l'escalade régulièrement ?
       text: Guilhem met à votre disposition des entraînements individualisés en
         escalade. Maximisez votre potentiel sportif grâce à des
         analyses basées sur des métriques précises et l'utilisation de l'outil
