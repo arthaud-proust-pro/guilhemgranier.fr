@@ -3,14 +3,14 @@ isIndex: true
 draft: false
 title: Préparateur sportif escalade à Bordeaux
 description: Guilhem met à votre disposition des entraînements individualisés en
-  escalade de haut niveau. Maximisez votre potentiel sportif grâce à des
+  escalade. Maximisez votre potentiel sportif grâce à des
   analyses basées sur des métriques précises et l’utilisation de l’outil
   innovant Nolio.
 hero:
   surtitle: Guilhem Granier
   title: Préparateur sportif d'escalade à Bordeaux
   text: Guilhem met à votre disposition des entraînements individualisés en
-    escalade de haut niveau. Maximisez votre potentiel sportif grâce à des
+    escalade. Maximisez votre potentiel sportif grâce à des
     analyses basées sur des métriques précises et l’utilisation de l’outil
     innovant Nolio.
   cta:
@@ -62,7 +62,7 @@ blocks:
     heading:
       title: Vous faites de l'escalade à haut niveau ?
       text: Guilhem met à votre disposition des entraînements individualisés en
-        escalade de haut niveau. Maximisez votre potentiel sportif grâce à des
+        escalade. Maximisez votre potentiel sportif grâce à des
         analyses basées sur des métriques précises et l'utilisation de l'outil
         innovant Nolio.
 ---
