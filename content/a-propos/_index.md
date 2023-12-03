@@ -18,7 +18,7 @@ hero:
   align: start
   image:
     darken: true
-    src: /images/uploads/guilhem-en-action.jpg
+    src: /images/uploads/guilhem-montre-maca.jpg
   surtitle: ""
   title: À propos
   text: Guilhem Granier possède de multiples expériences dans le monde sportif. Il
