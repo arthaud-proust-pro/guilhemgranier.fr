@@ -1,7 +1,7 @@
 ---
 isPage: true
 draft: false
-title: À propos
+title: "Mon parcours "
 description: Guilhem Granier possède de multiples expériences dans le monde
   sportif. Il a entraîné un grand nombre d’athlètes de manière qualitative.
 image:
@@ -49,7 +49,7 @@ blocks:
           text: Page UNSS
           url: https://www.lycee-montesquieu.fr/enseignements-specifiques/unss
         title: Enseignant
-        text: D'EPS à Bordeaux
+        text: d'EPS à Bordeaux
         icon: mortarboard-fill
       - cta:
           blank: true
