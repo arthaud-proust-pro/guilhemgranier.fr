@@ -1,11 +1,11 @@
 ---
 isPage: true
 draft: false
-title: "Mon parcours "
+title: Mon parcours de sportif et d'entraîneur
 description: Guilhem Granier possède de multiples expériences dans le monde
   sportif. Il a entraîné un grand nombre d’athlètes de manière qualitative.
 image:
-  src: /images/uploads/guilhem-vtt-luminy.jpg
+  src: /images/uploads/guilhem-montre-maca.jpg
 hero:
   cta:
     blank: false
