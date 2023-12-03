@@ -5,7 +5,7 @@ title: À propos
 description: Guilhem Granier possède de multiples expériences dans le monde
   sportif. Il a entraîné un grand nombre d’athlètes de manière qualitative.
 image:
-  src: /images/uploads/guilhem-montre-maca.png
+  src: /images/uploads/guilhem-montre-maca.jpg
 hero:
   cta:
     blank: false
