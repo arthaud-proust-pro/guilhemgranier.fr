@@ -25,8 +25,13 @@ hero:
     src: /images/uploads/guilhem-montre-maca.jpg
   surtitle: ""
   title: À propos
-  text: Guilhem Granier possède de multiples expériences dans le monde sportif. Il
-    a entraîné un grand nombre d’athlètes de manière qualitative.
+  text: >-
+    Multiples expériences dans le monde sportif. J'ai coaché un grand nombre
+    d’athlètes dans le milieu de l'endurance : trail, vtt, cyclisme, raid
+    multi-sports ... 
+
+
+    Depuis quelques années, la pratique nouvelle de l'escalade m'a conduit à me pencher sur le développement de la force, l'explosivité, la vitesse .... Un nouveau champ d'investigation tout à fait passionnant !
 blocks:
   - type: paragraph
     grid: medium
