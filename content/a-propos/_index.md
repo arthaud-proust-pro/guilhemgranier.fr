@@ -7,7 +7,9 @@ description: >-
   d’athlètes dans le milieu de l'endurance : trail, vtt, cyclisme, raid
   multi-sports ... 
 
-  Depuis quelques années, la pratique nouvelle de l'escalade m'a conduit à me pencher sur le développement de la force, l'explosivité, la vitesse .... Un nouveau champ d'investigation tout à fait passionnant ! 
+  Depuis quelques années, la pratique nouvelle de l'escalade m'a conduit à me pencher sur le développement de la force, l'explosivité, la vitesse .... 
+
+  Un nouveau champ d'investigation tout à fait passionnant ! 
 image:
   src: /images/uploads/guilhem-montre-maca.jpg
 hero:
