@@ -68,7 +68,7 @@ blocks:
       par semaine en attendant qu’il se passe quelque chose.**
 
 
-      Hormis quelques thématiques saisonnières pour les plus aguerris : de la conti\[1], de la rési\[2] et du travail dans les projets. Des tractions sur la barre à la maison si on est empêché d’aller à la salle ou en falaise, mais globalement, **pas de référence à une programmation**, un cycle de travail et des séances précises ciblant un thème.
+      Hormis quelques thématiques saisonnières pour les plus aguerris : de la conti\[\*], de la rési\[\*] et du travail dans les projets. Des tractions sur la barre à la maison si on est empêché d’aller à la salle ou en falaise, mais globalement, **pas de référence à une programmation**, un cycle de travail et des séances précises ciblant un thème.
 
 
       Je ne suis pas sociologue de l’activité mais **on peut aisément penser que s’entraîner dans une telle activité est antinomique avec certains de ses fondements.**
