@@ -214,22 +214,4 @@ blocks:
 
 
       On a un volume de travail (heures), une ou plusieurs tâches (courir, s’étirer, faire du bloc, etc ...), une notion d’intensité (facile, difficile ...) et un ressenti (je me sens hyper bien, je me sens lourd, etc ...)
-  - type: paragraph
-    grid: small
-    offset: center
-    align: start
-    cta:
-      blank: false
-    background: false
-    title: S’entraîner c’est apprendre à se connaître
-    text: Adapter les formes de travail à ses capacités (à finir)
-  - type: paragraph
-    grid: small
-    offset: center
-    align: start
-    cta:
-      blank: false
-    background: false
-    title: S’entraîner, c’est sortir de la monotonie !
-    text: (à finir)
 ---
