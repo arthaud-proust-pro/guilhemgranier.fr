@@ -52,23 +52,23 @@ blocks:
 
       La question qui me vient : **pourquoi ne pas essayer autre chose ?** Car il n’y a évidemment personne pour me dire qu’il n’est pas intéressé par une progression.
     title: Introduction
-  - type: paragraph
-    grid: small
-    offset: center
+  - notes:
+      - text: Fait référence à un effort assez modéré mais très prolongé dans le temps.
+          En escalade cela peut être un enchaînement de plusieurs voies
+          consécutives de niveau sous maximal.
+        id: 1
+      - id: 2
+        text: Fait référence à un effort soutenu relativement bref. Cela reste quand
+          même assez opaque quant à la définition de la fourchette de durée,
+          mais pour faire court de 1’ à 3’ environ.
     align: start
-    cta:
-      blank: false
-    background: false
+    grid: small
     text: >-
       En effet, la pratique reste très souvent la même : **on grimpe deux fois
       par semaine en attendant qu’il se passe quelque chose.**
 
 
-
-
-      Hormis quelques thématiques saisonnières pour les plus aguerris : de la conti1, de la rési2 et du travail dans les projets. Des tractions sur la barre à la maison si on est empêché d’aller à la salle ou en falaise, mais globalement, **pas de référence à une programmation**, un cycle de travail et des séances précises ciblant un thème.
-
-
+      Hormis quelques thématiques saisonnières pour les plus aguerris : de la conti\[\*], de la rési\[\*] et du travail dans les projets. Des tractions sur la barre à la maison si on est empêché d’aller à la salle ou en falaise, mais globalement, **pas de référence à une programmation**, un cycle de travail et des séances précises ciblant un thème.
 
 
       Je ne suis pas sociologue de l’activité mais **on peut aisément penser que s’entraîner dans une telle activité est antinomique avec certains de ses fondements.**
@@ -77,10 +77,13 @@ blocks:
       Nature, liberté, affranchissement à certains codes sociaux et notamment ceux du travail, ne semblent pas compatible avec l’idée d’une rigueur inhérente à un projet d’entraînement.
 
 
-
-
       Il y a peut-être aussi l’idée que de chercher à progresser en réfléchissant sa pratique, en périodisant son travail, en visant à développer certaines qualités peut **donner l’impression de se prendre au sérieux dans une activité** où l’amusement prévaut.
+    background: false
+    cta:
+      blank: false
+    offset: center
     title: Sortir des sentiers battus
+    type: paragraph
   - type: paragraph
     grid: small
     offset: center
@@ -211,22 +214,4 @@ blocks:
 
 
       On a un volume de travail (heures), une ou plusieurs tâches (courir, s’étirer, faire du bloc, etc ...), une notion d’intensité (facile, difficile ...) et un ressenti (je me sens hyper bien, je me sens lourd, etc ...)
-  - type: paragraph
-    grid: small
-    offset: center
-    align: start
-    cta:
-      blank: false
-    background: false
-    title: S’entraîner c’est apprendre à se connaître
-    text: Adapter les formes de travail à ses capacités (à finir)
-  - type: paragraph
-    grid: small
-    offset: center
-    align: start
-    cta:
-      blank: false
-    background: false
-    title: S’entraîner, c’est sortir de la monotonie !
-    text: (à finir)
 ---
