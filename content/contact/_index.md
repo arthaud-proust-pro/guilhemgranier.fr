@@ -65,7 +65,7 @@ blocks:
     background: true
     heading:
       title: Où est situé Guilhem ?
-      text: Situé dans le quartier du **Jardin Public**, il peux se rendre rapidement
+      text: Situé dans le quartier du **Jardin Public**, il peut se rendre rapidement
         dans Bordeaux
     location: '{"type":"Point","coordinates":[-0.5797037,44.849067]}'
 ---
