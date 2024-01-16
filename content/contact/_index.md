@@ -32,14 +32,14 @@ blocks:
         full: true
         label: Email
         options: []
-        placeholder: "Ex: mathilde.becerra@exemple.com"
+        placeholder: ""
         autocomplete: email
       - type: tel
         required: true
         full: true
         label: Téléphone
         options: []
-        placeholder: "Ex: 0673281028"
+        placeholder: ""
         autocomplete: tel
       - type: select
         required: true
