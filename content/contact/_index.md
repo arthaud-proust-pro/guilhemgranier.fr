@@ -32,8 +32,15 @@ blocks:
         full: true
         label: Email
         options: []
-        placeholder: ""
+        placeholder: "Ex: mathilde.becerra@exemple.com"
         autocomplete: email
+      - type: tel
+        required: false
+        full: false
+        label: Téléphone
+        options: []
+        placeholder: "Ex: 0673281028"
+        autocomplete: tel
       - type: select
         required: true
         full: true
@@ -42,9 +49,9 @@ blocks:
           - title: Entraînement
             value: coaching
           - title: Demande d'information
-            value: information-request
+            value: demande-information
           - title: Autre
-            value: other
+            value: autre
       - type: textarea
         required: true
         full: true
