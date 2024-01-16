@@ -35,8 +35,8 @@ blocks:
         placeholder: "Ex: mathilde.becerra@exemple.com"
         autocomplete: email
       - type: tel
-        required: false
-        full: false
+        required: true
+        full: true
         label: Téléphone
         options: []
         placeholder: "Ex: 0673281028"
