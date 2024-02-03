@@ -12,7 +12,7 @@ hero:
     escalade. Maximisez votre potentiel sportif grâce à des analyses basées sur
     des métriques précises et l’utilisation de l’outil innovant Nolio.
   cta:
-    text: Contacter Guilhem
+    text: Contacter
     url: /contact
   cta_second:
     text: ""
