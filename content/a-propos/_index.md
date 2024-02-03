@@ -78,8 +78,8 @@ blocks:
         icon: people-fill
       - cta:
           blank: false
-          text: Voir les services
-          url: /services
+          text: Voir les formules
+          url: /formules
         title: Prépa physique individuel
         text: De jeunes grimpeurs de haut-niveau
         icon: person-fill
