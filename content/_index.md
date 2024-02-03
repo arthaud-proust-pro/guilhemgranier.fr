@@ -15,8 +15,8 @@ hero:
     text: Contacter Guilhem
     url: /contact
   cta_second:
-    text: "Vidéo "
-    url: https://youtu.be/1cXJcXiAQ5w
+    text: ""
+    url: ""
 blocks:
   - type: editorial
     direction: ltr
@@ -28,7 +28,7 @@ blocks:
     title: Parcours & expériences
     surtitle: À propos
     image:
-      src: /images/uploads/guilhem-en-action.jpg
+      src: /images/uploads/guilhem-montre-maca.jpg
     text: Guilhem Granier possède de multiples expériences dans le monde sportif. Il
       a entraîné un grand nombre d'athlètes de manière qualitative.
   - type: selected-pages
