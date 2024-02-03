@@ -20,6 +20,10 @@ hero:
     blank: false
     text: ""
 blocks:
+  - type: alert
+    state: warning
+    background: false
+    text: Guilhem prendra pas de nouveaux athlètes avant avril 2024
   - type: form
     grid: small
     offset: center
@@ -68,8 +72,4 @@ blocks:
       text: Situé dans le quartier du **Jardin Public**, il peut se rendre rapidement
         dans Bordeaux
     location: '{"type":"Point","coordinates":[-0.5797037,44.849067]}'
-  - type: alert
-    state: warning
-    background: false
-    text: Guilhem prendra pas de nouveaux athlètes avant avril 2024
 ---
