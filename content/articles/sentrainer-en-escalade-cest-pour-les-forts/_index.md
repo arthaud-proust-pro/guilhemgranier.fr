@@ -17,13 +17,9 @@ hero:
   text: ""
   title: S'entraîner en escalade, c'est pour les forts ?
 blocks:
-  - type: paragraph
-    grid: small
-    offset: center
+  - notes: []
     align: start
-    cta:
-      blank: false
-    background: false
+    grid: small
     text: >-
       Que les choses soient claires, s’entraîner en escalade pourrait être
       résumé par la seule pratique de l’activité, avec l’idée assez communément
@@ -51,7 +47,12 @@ blocks:
 
 
       La question qui me vient : **pourquoi ne pas essayer autre chose ?** Car il n’y a évidemment personne pour me dire qu’il n’est pas intéressé par une progression.
+    background: false
+    cta:
+      blank: false
+    offset: center
     title: Introduction
+    type: paragraph
   - notes:
       - text: Fait référence à un effort assez modéré mais très prolongé dans le temps.
           En escalade cela peut être un enchaînement de plusieurs voies

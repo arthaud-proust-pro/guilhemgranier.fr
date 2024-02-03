@@ -1,6 +1,6 @@
 ---
 isPage: true
-draft: false
+draft: true
 title: La rési courte ne sert à rien ?
 image:
   src: /images/uploads/img36.jpg
