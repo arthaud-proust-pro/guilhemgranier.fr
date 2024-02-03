@@ -14,6 +14,9 @@ hero:
   cta:
     text: Contacter Guilhem
     url: /contact
+  cta_second:
+    text: "Vidéo "
+    url: https://youtu.be/1cXJcXiAQ5w
 blocks:
   - type: editorial
     direction: ltr
