@@ -11,7 +11,7 @@ description: Construisez vous-même votre plain avec mon aide et mes régulation
   Planification personnelle, étude ensemble, accès Nöliö Premium, visios
   régulières pour ajustements.
 image:
-  src: /images/uploads/climber-recording-video-by-nathan-c.jpg
+  src: /images/uploads/photo-article-site.jpg
 ---
 C’est l’idée de vous accompagner vers votre propre autonomie en terme de planification et d’entraînement. À terme, c’est que vous débrouilliez tout seul (6 mois maximum).
 
