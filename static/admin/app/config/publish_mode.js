@@ -1,0 +1,1 @@
+export const publish_mode = 'editorial_workflow'
