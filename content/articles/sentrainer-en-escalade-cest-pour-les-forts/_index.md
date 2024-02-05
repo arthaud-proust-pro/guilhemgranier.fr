@@ -189,34 +189,13 @@ blocks:
     offset: center
     title: S’entraîner, c’est une expérience scientifique sur soi
     type: paragraph
-  - notes:
-      - text: >-
-          Véronique Billat, est une physiologiste française, qui a consacré son
-          travail à établir le lien entre la science et l'empirisme de
-          l'entraînement sportif en confrontant l'expérience du terrain à la
-          théorie physiologique. De cette dialectique, elle a élaboré une
-          méthode d'entraînement individualisée fondée sur le profil du sportif
-          prenant en compte l'énergie à VO₂ₘₐₓ et ses facteurs limitatifs.
-
-
-          Noter simplement ce que l’on fait c’est le début d’une structuration d’entraînement.
-
-          On a un volume de travail (heures), une ou plusieurs tâches (courir, s’étirer, faire du bloc, etc ...), une notion d’intensité (facile, difficile ...) et un ressenti (je me sens hyper bien, je me sens lourd, etc ...
-    align: start
-    grid: small
-    text: ""
-    background: false
-    cta:
-      blank: false
-    offset: center
-    title: ""
-    type: paragraph
   - type: figure
     grid: medium
     offset: center
     background: false
     figure:
       src: /images/uploads/img45.jpg
+      credit: Photo Arthaud Proust
   - type: paragraph
     grid: medium
     offset: center
