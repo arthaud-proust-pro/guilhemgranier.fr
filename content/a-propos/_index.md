@@ -12,6 +12,7 @@ description: >-
   Un nouveau champ d'investigation tout à fait passionnant ! 
 image:
   src: /images/uploads/granier-chauve.jpg
+  credit: Photo Arthaud Proust
 hero:
   cta:
     blank: false
@@ -23,8 +24,8 @@ hero:
     url: /contact
   align: start
   image:
-    darken: true
-    src: /images/uploads/guilhem-montre-maca.jpg
+    darken: false
+    src: /images/uploads/granier-chauve.jpg
   surtitle: ""
   title: À propos
   text: >-
