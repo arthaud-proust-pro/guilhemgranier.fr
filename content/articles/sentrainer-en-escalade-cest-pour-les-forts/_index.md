@@ -144,6 +144,20 @@ blocks:
 
 
       Des concours de suspension à deux mains sur une réglette de 7mm ?
+
+
+
+
+      Je sais que j’exagère, mais hormis les grimpeurs élites qui ont un encadrement pointu ou ont fait le choix d’un coach payant, il n’y a que **très peu de personnes qui s’entraînent de façon structurée** tout au long de l’année dans ce sport.
+
+
+      Sans doute par manque d’outils, de connaissances mais aussi parce que ça ne les intéresse pas !
+
+
+      Réfléchir sa pratique c’est lui faire perdre son essence : simplicité, instinctivité et plaisir. Et je le comprends très bien.
+
+
+      C’est donc aux autres, et il y en a beaucoup, que ce billet s’adresse. À ceux qui ont une autre approche, sans doute liée à un héritage provenant d’un autre sport où s’entraîner de façon rationnelle est commun.
     title: Alors pourquoi si peu de choses visibles en escalade ?
   - type: figure
     grid: medium
@@ -158,24 +172,7 @@ blocks:
     cta:
       blank: false
     background: false
-    text: >-
-      Je sais que j’exagère, mais hormis les grimpeurs élites qui ont un
-      encadrement pointu ou ont fait le choix d’un coach payant, il n’y a que
-      **très peu de personnes qui s’entraînent de façon structurée** tout au
-      long de l’année dans ce sport.
-
-
-
-
-      Sans doute par manque d’outils, de connaissances mais aussi parce que ça ne les intéresse pas !
-
-
-      Réfléchir sa pratique c’est lui faire perdre son essence : simplicité, instinctivité et plaisir. Et je le comprends très bien.
-
-
-
-
-      C’est donc aux autres, et il y en a beaucoup, que ce billet s’adresse. À ceux qui ont une autre approche, sans doute liée à un héritage provenant d’un autre sport où s’entraîner de façon rationnelle est commun.
+    text: ""
   - type: paragraph
     grid: small
     offset: center
