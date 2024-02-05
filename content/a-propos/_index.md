@@ -57,17 +57,17 @@ blocks:
     items:
       - cta:
           blank: true
-          text: Page UNSS
-          url: https://www.lycee-montesquieu.fr/enseignements-specifiques/unss
+          text: Site web Lycée Montesquieu
+          url: https://www.lycee-montesquieu.fr/
         title: Enseignant
         text: d'EPS à Bordeaux
         icon: mortarboard-fill
       - cta:
           blank: true
           text: Site de la section
-          url: https://www.lycee-montesquieu.fr/enseignements-specifiques/section-sportive-escalade
+          url: https://escalade-montesquieu.fr/
         title: Responsable
-        text: De la section sportive escalade au lycée Montesquieu
+        text: De de l'AS et de la section sportive escalade au Lycée Montesquieu
         icon: person-badge
       - cta:
           blank: true
@@ -80,7 +80,7 @@ blocks:
           blank: false
           text: Voir les formules
           url: /formules
-        title: Prépa physique individuel
+        title: Prépa physique individuelle
         text: De jeunes grimpeurs de haut-niveau
         icon: person-fill
   - type: paragraph
@@ -132,6 +132,6 @@ blocks:
 
       Depuis, je progresse doucement, je me forme, je passe des diplômes et je m’acculture peu à peu à cette activité que j’apprécie énormément, même si elle n’est pas du tout dans ma filière.
     image:
-      src: /images/uploads/guilhem-grimpe.jpg
+      src: /images/uploads/guilhem-grimpe-maca.jpg
     title: Escalade
 ---
