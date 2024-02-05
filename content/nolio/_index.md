@@ -10,12 +10,12 @@ hero:
     url: /contact
   cta_second:
     blank: true
-    text: Découvrir Nöliö
+    text: "Article quant à l'utilisation de la plate-frome "
     url: https://www.nolio.io/
   align: start
   image:
     darken: true
-    src: /images/uploads/nolio.png
+    src: /images/uploads/nolio-vue-planning.jpg
   surtitle: Outil
   title: Travail avec Nöliö
   text: Guilhem utilise l'outil innovant **Nöliö** pour entraîner ses athlètes.
