@@ -11,7 +11,7 @@ description: >-
 
   Un nouveau champ d'investigation tout à fait passionnant ! 
 image:
-  src: /images/uploads/granier-chauve.jpg
+  src: /images/uploads/granier-explique-2.jpg
   credit: Photo Arthaud Proust
 hero:
   cta:
