@@ -163,7 +163,7 @@ blocks:
     offset: center
     background: false
     figure:
-      src: /images/uploads/img36.jpg
+      src: ""
   - notes:
       - text: Véronique Billat, est une physiologiste française, qui a consacré son
           travail à établir le lien entre la science et l’empirisme de
@@ -218,7 +218,7 @@ blocks:
     figure:
       src: /images/uploads/img45.jpg
   - type: paragraph
-    grid: small
+    grid: medium
     offset: center
     align: start
     cta:
