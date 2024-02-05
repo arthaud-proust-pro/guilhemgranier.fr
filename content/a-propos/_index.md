@@ -2,17 +2,10 @@
 isPage: true
 draft: false
 title: Mon parcours de sportif et d'entraîneur
-description: >-
-  Multiples expériences dans le monde sportif. J'ai coaché un grand nombre
-  d’athlètes dans le milieu de l'endurance : trail, vtt, cyclisme, raid
-  multi-sports ... 
-
-  Depuis quelques années, la pratique nouvelle de l'escalade m'a conduit à me pencher sur le développement de la force, l'explosivité, la vitesse .... 
-
-  Un nouveau champ d'investigation tout à fait passionnant ! 
+description: ""
 image:
-  src: /images/uploads/granier-explique-2.jpg
-  credit: Photo Arthaud Proust
+  src: ""
+  credit: ""
 hero:
   cta:
     blank: false
@@ -25,7 +18,7 @@ hero:
   align: start
   image:
     darken: false
-    src: /images/uploads/granier-chauve.jpg
+    src: /images/uploads/granier-explique-2.jpg
   surtitle: ""
   title: À propos
   text: >-
@@ -133,6 +126,6 @@ blocks:
 
       Depuis, je progresse doucement, je me forme, je passe des diplômes et je m’acculture peu à peu à cette activité que j’apprécie énormément, même si elle n’est pas du tout dans ma filière.
     image:
-      src: /images/uploads/guilhem-grimpe-maca.jpg
+      src: /images/uploads/granier-grimpe-bg.jpg
     title: Escalade
 ---
