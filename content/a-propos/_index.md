@@ -4,7 +4,7 @@ draft: false
 title: Mon parcours de sportif et d'entraîneur
 description: ""
 image:
-  src: ""
+  src: /images/uploads/granier-explique-2.jpg
   credit: ""
 hero:
   cta:
