@@ -2,6 +2,7 @@
 isPage: true
 draft: false
 title: S'entraîner en escalade, c'est pour les forts ?
+description: ""
 image:
   src: /images/uploads/img9.jpg
 hero:
@@ -47,7 +48,7 @@ blocks:
 
 
       La question qui me vient : **pourquoi ne pas essayer autre chose ?** Car il n’y a évidemment personne pour me dire qu’il n’est pas intéressé par une progression.
-    background: false
+    background: true
     cta:
       blank: false
     offset: center
