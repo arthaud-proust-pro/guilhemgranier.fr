@@ -147,9 +147,7 @@ blocks:
       Des concours de suspension à deux mains sur une réglette de 7mm ?
 
 
-
-
-      Je sais que j’exagère, mais hormis les grimpeurs élites qui ont un encadrement pointu ou ont fait le choix d’un coach payant, il n’y a que **très peu de personnes qui s’entraînent de façon structurée** tout au long de l’année dans ce sport.
+      Je sais que j’exagère, mais hormis les grimpeurs élites qui ont un encadrement pointu ou ont fait le choix d’un coach perso, il n’y a que **très peu de personnes qui s’entraînent de façon structurée** tout au long de l’année dans ce sport.
 
 
       Sans doute par manque d’outils, de connaissances mais aussi parce que ça ne les intéresse pas !
@@ -174,15 +172,23 @@ blocks:
       blank: false
     background: false
     text: ""
-  - type: paragraph
-    grid: small
-    offset: center
+  - notes:
+      - text: >-
+          Véronique Billat, est une physiologiste française, qui a consacré son
+          travail à établir le lien entre la science et l'empirisme de
+          l'entraînement sportif en confrontant l'expérience du terrain à la
+          théorie physiologique. De cette dialectique, elle a élaboré une
+          méthode d'entraînement individualisée fondée sur le profil du sportif
+          prenant en compte l'énergie à VO₂ₘₐₓ et ses facteurs limitatifs.
+
+
+          Noter simplement ce que l’on fait c’est le début d’une structuration d’entraînement.
+
+          On a un volume de travail (heures), une ou plusieurs tâches (courir, s’étirer, faire du bloc, etc ...), une notion d’intensité (facile, difficile ...) et un ressenti (je me sens hyper bien, je me sens lourd, etc ...
     align: start
-    cta:
-      blank: false
-    background: false
+    grid: small
     text: >-
-      Comme l’explique très bien Véronique Billat3, à compter de l’instant où
+      Comme l’explique très bien Véronique Billat\[*], à compter de l’instant où
       l’on **teste**, que l’on détermine un **axe de travail** (hypothèse), que
       l’on **planifie** des séances, qu’on les **réalise** et que l’on note
       scrupuleusement **les effets** et les ressentis, on est pleinement dans
@@ -190,10 +196,13 @@ blocks:
       très étoffées.
 
 
-
-
       Faire une **démarche rationnelle et mesurée** d’entraînement n’est pas réservé aux universitaires ou aux champions !
+    background: false
+    cta:
+      blank: false
+    offset: center
     title: S’entraîner, c’est une expérience scientifique sur soi
+    type: paragraph
   - type: figure
     grid: medium
     offset: center
@@ -208,9 +217,53 @@ blocks:
       blank: false
     background: false
     text: >-
-      Noter simplement ce que l’on fait c’est le début d’une structuration
-      d’entraînement.
+      S’inscrire dans une démarche où l’on cherche à comprendre ce que génère
+      une forme de travail sur son corps (technique, force, endurance,
+      souplesse, explosivité, engagement, etc …) c’est se donner la possibilité
+      de faire des entraînements très différents les uns des autres. 
 
 
-      On a un volume de travail (heures), une ou plusieurs tâches (courir, s’étirer, faire du bloc, etc ...), une notion d’intensité (facile, difficile ...) et un ressenti (je me sens hyper bien, je me sens lourd, etc ...)
+
+
+      Par période, je vais pouvoir **orienter mon travail** car les objectifs sont différents au grès de mon calendrier (bloc, diff, falaise, projet, compétition …) 
+
+
+
+
+      **Il n’y a rien de plus motivant que de varier ses séances**, les sollicitations, les contraintes … 
+
+
+      Sur le plan psychologique, cette variété est un vrai  moteur car cela permet de lutter contre la lassitude. 
+
+
+
+
+      Sur le plan physio, **varier les sollicitations est la meilleure des voies pour obtenir des réponses fortes de son organisme**. En effet, l’écueil le plus répandu est de répéter trop souvent le même type de séance, en durée, en intensité … car on atteint très vite un plafond. 
+
+
+
+
+      Diversifier, c’est aussi une excellente **méthode de prévention** des blessures, car c’est souvent la très grande répétition mécanique qui génère les tendinopathies, les fractures de fatigue et autres bobos d’usure. 
+
+
+
+
+      Diversifier, c’est aller du 1/10 au 10/10 en RPE (ressenti de l’effort). 
+
+
+      En effet, les entraînements sont trop souvent monocordes : toujours en intensité 5, 6 ou 7/10.
+
+
+
+
+      Il faut pouvoir faire cohabiter dans la même semaine une séance cardio en zone 2 (endurance fondamentale) et une séance de force maximale (10/10). 
+
+
+      Ces deux séances vont se compléter l’une l’autre, car elles requièrent une disponibilité psychologique et physique tout à fait différente. 
+
+
+
+
+      Diversifier c’est aussi s’amuser car on se retrouve un peu créateur de ses propres entraînements, souvent glanés sur le web, dans des livres ou des discussions informelles, mais qu’il faut digérer à sa sauce pour les adapter à ses besoins.
+    title: S’entraîner c’est sortir de la monotonie !
 ---
