@@ -39,6 +39,12 @@ blocks:
       - S'entraîner en escalade, c'est pour les forts ?
     heading:
       title: Articles
+  - type: selected-pages
+    section: pages
+    show_more: true
+    background: true
+    items:
+      - Article Nolio
   - type: selected-services
     section: services
     show_more: false
