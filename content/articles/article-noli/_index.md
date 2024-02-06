@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Article Nolio
 image:
-  src: /images/uploads/nolio-logo.jpg
+  src: /images/uploads/nolio-vue-planning.jpg
 hero:
   cta:
     blank: false
