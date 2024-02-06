@@ -1,7 +1,8 @@
 ---
 isPage: true
 draft: false
-title: Article Nolio
+title: "De l'utilisation d'une plate-forme numérique d'entraînement pour
+  l'escalade : Nolio"
 image:
   src: /images/uploads/nolio-vue-planning.jpg
 hero:
