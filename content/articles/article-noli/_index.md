@@ -2,6 +2,8 @@
 isPage: true
 draft: false
 title: Article Nolio
+image:
+  src: /images/uploads/nolio-logo.jpg
 hero:
   cta:
     blank: false
