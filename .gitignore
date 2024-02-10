@@ -6,3 +6,5 @@ resources
 .netlify
 jsconfig.json
 config/development/
+
+.env

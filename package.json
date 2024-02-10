@@ -14,6 +14,8 @@
     "license": "MIT",
     "devDependencies": {
         "@fullhuman/postcss-purgecss": "^5.0.0",
+        "@tinacms/cli": "^1.5.39",
+        "@types/node": "^20.11.17",
         "autoprefixer": "^10.4.13",
         "cssnano": "^5.1.14",
         "netlify-plugin-hugo-cache-resources": "^0.2.1",
@@ -28,6 +30,10 @@
         "tidy": "hugo mod tidy",
         "clean": "hugo mod clean",
         "cleanall": "hugo mod clean --all",
-        "cms": "npx netlify-cms-proxy-server"
+        "cms": "npx netlify-cms-proxy-server",
+        "tina": "npx tinacms dev -c \"yarn watch\""
+    },
+    "dependencies": {
+        "tinacms": "^1.5.28"
     }
 }
