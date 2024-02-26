@@ -6,12 +6,16 @@ github.com/hugolify/hugolify-decap-cms v1.10.1 h1:zB92iPPLLDfyZCdxAJCh6L8VS+d8r9
 github.com/hugolify/hugolify-decap-cms v1.10.1/go.mod h1:lxqV0lEahrLATtKBgUbj/c9fQE1XGpaJSIaLk9D/hRA=
 github.com/hugolify/hugolify-decap-cms v1.12.0 h1:TrnVuwMIvq/OsLJWbBmVVw2G5vB2xXc3koU/YnVcJ2E=
 github.com/hugolify/hugolify-decap-cms v1.12.0/go.mod h1:lxqV0lEahrLATtKBgUbj/c9fQE1XGpaJSIaLk9D/hRA=
+github.com/hugolify/hugolify-decap-cms v1.13.0 h1:vwEzz/VaHWqGjwkAt0E8+8toqJGky+mteH/U9aqlCuI=
+github.com/hugolify/hugolify-decap-cms v1.13.0/go.mod h1:lxqV0lEahrLATtKBgUbj/c9fQE1XGpaJSIaLk9D/hRA=
 github.com/hugolify/hugolify-theme v1.7.37 h1:PwyjOnHbiLWN/EVEz0LYHzj+kks7l9WQ+Ntpo+zwSf0=
 github.com/hugolify/hugolify-theme v1.7.37/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme v1.8.2 h1:tTWlfNYqZFYQxj6HHWgtb9cdjy5YwlYqbbvd5k2HNek=
 github.com/hugolify/hugolify-theme v1.8.2/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme v1.8.13 h1:JmYUTJGF6YjYd7xqP+DlDkikJVCO2lnjl45lV9KODog=
 github.com/hugolify/hugolify-theme v1.8.13/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
+github.com/hugolify/hugolify-theme v1.9.3 h1:wNrcYpI5Jh+hlRE6Itx4GFwsXA+ppx4SLVI8YxtimE4=
+github.com/hugolify/hugolify-theme v1.9.3/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
 github.com/hugolify/hugolify-theme-persons v1.3.6 h1:s9ZZMTSHZOyhklBF++LWutbQVsnCa6pJDBMzYxSkHO4=
 github.com/hugolify/hugolify-theme-persons v1.3.6/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
 github.com/hugolify/hugolify-theme-persons v1.3.10 h1:pxmINxKByDyDf6e7oJ9MdABiR7TFUSZaL2O/X82nC9U=
