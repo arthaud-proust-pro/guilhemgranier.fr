@@ -1,8 +1,7 @@
 ---
 isPage: true
 draft: false
-title: "De l'utilisation d'une plate-forme numérique d'entraînement pour
-  l'escalade : Nolio"
+title: "Nöliö : un carnet d’entraînement numérique"
 image:
   src: /images/uploads/nolio-vue-planning.jpg
 description: ""
@@ -15,8 +14,9 @@ hero:
   image:
     darken: true
     background_image: true
-    src: /images/uploads/nolio-vue-planning.jpg
-  title: ""
+    src: /images/uploads/img45.jpg
+  title: "De l'utilisation d'une plate-forme numérique d'entraînement pour
+    l'escalade : Nolio"
   text: ""
   surtitle: ""
 blocks:
