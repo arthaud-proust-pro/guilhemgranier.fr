@@ -91,7 +91,9 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/5aaaf7dcb7256d19bc1f37dc2426f090.jpg
+      src: /images/uploads/935334_839715.webp
+      legend: "Smartboard - Poutre utilisée pour le développement de la force à doigts
+        avec capteurs permettant une mesure des forces appliquées. "
     grid: medium
     offset: center
     background: false
