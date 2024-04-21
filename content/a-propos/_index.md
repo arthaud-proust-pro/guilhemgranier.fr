@@ -9,12 +9,12 @@ image:
 hero:
   cta:
     blank: false
-    text: Voir les formules
-    url: /formules
+    text: ""
+    url: ""
   cta_second:
     blank: false
-    text: Contacter Guilhem
-    url: /contact
+    text: ""
+    url: ""
   align: start
   image:
     darken: false
@@ -72,8 +72,8 @@ blocks:
         icon: people-fill
       - cta:
           blank: false
-          text: Voir les formules
-          url: /formules
+          text: ""
+          url: ""
         title: Prépa physique individuelle
         text: De jeunes grimpeurs de haut-niveau
         icon: person-fill
