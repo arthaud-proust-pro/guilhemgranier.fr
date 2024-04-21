@@ -48,7 +48,7 @@ blocks:
 
 
       La question qui me vient : **pourquoi ne pas essayer autre chose ?** Car il n’y a évidemment personne pour me dire qu’il n’est pas intéressé par une progression.
-    background: true
+    background: false
     cta:
       blank: false
     offset: center
@@ -197,7 +197,7 @@ blocks:
       src: /images/uploads/img45.jpg
       credit: Photo Arthaud Proust
   - type: paragraph
-    grid: medium
+    grid: small
     offset: center
     align: start
     cta:

@@ -1,4 +1,1 @@
-export const availableSections = [
-    'services',
-    'persons',
-]
+export const availableSections = []

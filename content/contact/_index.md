@@ -4,13 +4,9 @@ title: Contact
 hero:
   surtitle: ""
   title: Contacter Guilhem
-  text: J﻿e souhaite plus d'informations, démarrer un entraînement ou encore
+  text: Je souhaite plus d'informations, démarrer un entraînement ou encore
     collaborer avec Guilhem
   align: center
-  image:
-    src: ""
-    darken: true
-    background_image: true
   cta:
     text: ""
     url: ""
@@ -23,7 +19,7 @@ blocks:
   - type: alert
     state: warning
     background: false
-    text: Guilhem prendra pas de nouveaux athlètes avant avril 2024
+    text: Guilhem prendra pas de nouveaux athlètes avant juin 2024
   - type: form
     grid: small
     offset: center

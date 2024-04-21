@@ -3,14 +3,5 @@ links:
     title: À propos
     url: /a-propos
   - blank: false
-    title: Formules
-    url: /formules
-  - blank: false
     title: Articles
     url: /articles
-  - blank: false
-    title: Nöliö
-    url: /nolio
-  - blank: false
-    title: Contact
-    url: /contact

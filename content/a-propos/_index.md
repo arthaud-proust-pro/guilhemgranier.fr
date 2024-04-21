@@ -7,14 +7,6 @@ image:
   src: /images/uploads/granier-explique-2.jpg
   credit: ""
 hero:
-  cta:
-    blank: false
-    text: ""
-    url: ""
-  cta_second:
-    blank: false
-    text: ""
-    url: ""
   align: start
   image:
     darken: false
@@ -70,11 +62,7 @@ blocks:
         title: "Prépa physique "
         text: De la Team 33 FFME (escalade)
         icon: people-fill
-      - cta:
-          blank: false
-          text: ""
-          url: ""
-        title: Prépa physique individuelle
+      - title: Prépa physique individuelle
         text: De jeunes grimpeurs de haut-niveau
         icon: person-fill
   - type: paragraph
