@@ -1,11 +1,13 @@
 ---
 isPage: true
 title: Contact
+description: "N'hésitez pas à me solliciter, même pour un simple conseil. Je ne
+  serai pas toujours disponible, mais j'aime vraiment à échanger sur
+  l'entraînement, l'alimentation, le repos, le sommeil ... "
 hero:
   surtitle: ""
   title: Contacter Guilhem
-  text: Je souhaite plus d'informations, démarrer un entraînement ou encore
-    collaborer avec Guilhem
+  text: ""
   align: center
   cta:
     text: ""
@@ -19,11 +21,11 @@ blocks:
   - type: alert
     state: warning
     background: false
-    text: Guilhem prendra pas de nouveaux athlètes avant juin 2024
+    text: ""
   - type: form
     grid: small
     offset: center
-    background: false
+    background: true
     name: contact
     submit: Envoyer ma demande
     items:
@@ -59,13 +61,4 @@ blocks:
     heading:
       title: Envoyer ma demande de contact
       text: G﻿uilhem vous répondra dans les meilleurs délais
-  - type: map
-    zoom: 13
-    grid: large
-    background: true
-    heading:
-      title: Où est situé Guilhem ?
-      text: Situé dans le quartier du **Jardin Public**, il peut se rendre rapidement
-        dans Bordeaux
-    location: '{"type":"Point","coordinates":[-0.5797037,44.849067]}'
 ---
