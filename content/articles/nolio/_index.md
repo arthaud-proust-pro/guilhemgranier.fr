@@ -37,10 +37,7 @@ blocks:
       Les principaux utilisateurs sont issus du milieu de l’endurance quelle que soit sa forme : trail, cyclisme, triathlon, vtt, ski de fond, aviron, etc … 
 
 
-      Depuis septembre 2022 j’utilise Nöliö avec un groupe de 10 grimpeurs au sein d’une section
-
-
-      sportive scolaire escalade au Lycée Montesquieu de Bordeaux. Le niveau est assez hétérogène entre les plus jeunes (classe de seconde) et les plus anciens (terminale) mais ils évoluent globalement entre le régional et le national (dans les deux disciplines que sont le bloc et la difficulté). 
+      Depuis septembre 2022 j’utilise Nöliö avec un groupe de 10 grimpeurs au sein d’une section sportive scolaire escalade au Lycée Montesquieu de Bordeaux. Le niveau est assez hétérogène entre les plus jeunes (classe de seconde) et les plus anciens (terminale) mais ils évoluent globalement entre le régional et le national (dans les deux disciplines que sont le bloc et la difficulté). 
 
 
       Ils s’entraînent de 5 à 8 fois par semaine, tantôt avec moi, tantôt avec un entraîneur de club (partenariat).
