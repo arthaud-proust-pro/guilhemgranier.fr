@@ -24,15 +24,11 @@ blocks:
     surtitle: À propos
     image:
       src: /images/uploads/guilhem-montre-maca.jpg
-    text: >-
-      J'ai eu la chance de pratiquer des activités sportives très différentes et
+    text: J'ai eu la chance de pratiquer des activités sportives très différentes et
       de me passionner pour l'entraînement pour chacune d'entre elles. J'ai pu
       accompagner des athlètes de bon et de haut niveau avec qui j'ai pu mettre
       en place des outils très qualitatifs, qui permettent de faire cohabiter
       une pratique exigeante et la vie du quotidien.
-
-
-      C'est un peu la narration de ce que l'on est amené à bricoler quand on a des vies de sportifs amateurs passionnés où l'on doit tout mener de front.
   - type: selected-articles
     section: pages
     show_more: false
