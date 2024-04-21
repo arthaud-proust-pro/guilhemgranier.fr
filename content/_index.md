@@ -1,12 +1,12 @@
 ---
 isIndex: true
 draft: false
-title: Préparateur physique
+title: De la préparation physique en escalade ?
 description: "Ici je partage mes expériences liées à l'entraînement et à la
   préparation physique dédiée à l'escalade "
 hero:
   surtitle: Guilhem Granier
-  title: Préparateur sportif d'escalade à Bordeaux
+  title: Préparateur physique
   text: Ici je partage mes expériences liées à l'entraînement et à la préparation
     physique dédiée à l'escalade
   cta:
