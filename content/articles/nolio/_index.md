@@ -52,5 +52,5 @@ blocks:
       src: /images/uploads/logo-seection.jpg
     grid: medium
     offset: center
-    background: false
+    background: true
 ---
