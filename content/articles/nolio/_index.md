@@ -91,7 +91,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/images.jpg
+      src: /images/uploads/5aaaf7dcb7256d19bc1f37dc2426f090.jpg
     grid: medium
     offset: center
     background: false
