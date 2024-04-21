@@ -1,7 +1,7 @@
 ---
 isIndex: true
 draft: false
-title: Préparateur sportif escalade à Bordeaux
+title: Préparateur physique
 description: "Ici je partage mes expériences liées à l'entraînement et à la
   préparation physique dédiée à l'escalade "
 hero:
