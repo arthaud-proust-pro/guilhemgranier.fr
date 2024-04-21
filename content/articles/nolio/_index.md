@@ -87,4 +87,12 @@ blocks:
 
       Ce petit préambule étant fait, voici comment j’utilise Nöliö, après 4 mois de paramétrages et d’adaptations, bien conscient de n’exploiter que très peu la puissance de l’outil !
     title: Mais où sont les datas ?
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/images.jpg
+    grid: medium
+    offset: center
+    background: false
 ---
