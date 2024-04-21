@@ -5,9 +5,7 @@ title: "De l'utilisation d'une plate-forme numérique d'entraînement pour
   l'escalade : Nolio"
 image:
   src: /images/uploads/nolio-vue-planning.jpg
-description: Depuis 2 ans j'utilise cette plate-forme orientée pour les sports
-  d'endurance pour accompagner mes athlètes dans les différentes planifications
-  que je leur propose.
+description: ""
 hero:
   cta:
     blank: false
@@ -61,5 +59,5 @@ hero:
 
 
     partie pure escalade.
-  surtitle: "Utiliser une plate-forme dédiée à l'entraînement : Nolio"
+  surtitle: ""
 ---
