@@ -31,7 +31,7 @@ blocks:
       une pratique exigeante et la vie du quotidien.
   - type: selected-articles
     section: pages
-    show_more: true
+    show_more: false
     background: false
     items:
       - S'entraîner en escalade, c'est pour les forts ?
