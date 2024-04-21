@@ -2,8 +2,11 @@
 isIndex: true
 draft: false
 title: De la préparation physique en escalade ?
-description: "Ici je partage mes expériences liées à l'entraînement et à la
-  préparation physique dédiée à l'escalade "
+description: "La préparation physique n'est pas vraiment ancrée dans la culture
+  de l'escalade. Je propose ici des articles issus de mes différentes
+  expériences avec des grimpeurs. Des réflexions autour de l'entraînement dans
+  ce sport et ses différentes disciplines que sont le bloc, la vitesse et la
+  diff. "
 hero:
   surtitle: Guilhem Granier
   title: Préparateur physique
@@ -21,11 +24,15 @@ blocks:
     surtitle: À propos
     image:
       src: /images/uploads/guilhem-montre-maca.jpg
-    text: J'ai eu la chance de pratiquer des activités sportives très différentes et
+    text: >-
+      J'ai eu la chance de pratiquer des activités sportives très différentes et
       de me passionner pour l'entraînement pour chacune d'entre elles. J'ai pu
-      accompagner des athlètes de bon et de très haut niveau avec qui j'ai pu
-      mettre en place des outils très qualitatifs, qui permettent de faire
-      cohabiter une pratique exigeante et la vie du quotidien.
+      accompagner des athlètes de bon et de haut niveau avec qui j'ai pu mettre
+      en place des outils très qualitatifs, qui permettent de faire cohabiter
+      une pratique exigeante et la vie du quotidien.
+
+
+      C'est un peu la narration de ce que l'on est amené à bricoler quand on a des vies de sportifs amateurs passionnés où l'on doit tout mener de front.
   - type: selected-articles
     section: pages
     show_more: false
