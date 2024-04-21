@@ -35,8 +35,7 @@ blocks:
     background: false
     items:
       - S'entraîner en escalade, c'est pour les forts ?
-      - "De l'utilisation d'une plate-forme numérique d'entraînement pour
-        l'escalade : Nolio"
+      - "Nöliö : un carnet d’entraînement numérique"
     heading:
       title: Articles
 ---
