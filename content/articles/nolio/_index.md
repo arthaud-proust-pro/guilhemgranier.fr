@@ -47,4 +47,13 @@ blocks:
 
 
       J’ai d’avantage la partie préparation athlétique que la partie pure escalade.
+    title: Détourner les usages
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/logo-seection.jpg
+    grid: medium
+    offset: center
+    background: false
 ---
