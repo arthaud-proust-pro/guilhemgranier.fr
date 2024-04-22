@@ -96,12 +96,13 @@ blocks:
     background: false
     gallery:
       - src: /images/uploads/guilhem-trail-massilia.jpg
-        legend: Au trail de massilia
+        legend: Virée trail sur les hauteurs de Marseille
+        alt: ""
       - src: /images/uploads/guilhem-podium-france-xcm.jpg
         legend: 3ème aux France VTT XC Marathon en 2016
         alt: ""
       - src: /images/uploads/guilhem-vtt-luminy.jpg
-        legend: ""
+        legend: Coupe de France Luminy
   - type: editorial
     direction: ltr
     cta:
