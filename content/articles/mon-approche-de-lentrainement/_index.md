@@ -217,4 +217,76 @@ blocks:
 
       Cet auto-scan permet de poser un premier diagnostic qui sera complété par les tests de terrain.
     title: Détermination des objectifs du grimpeur
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/img_2024-04-23-133515.png
+    grid: medium
+    offset: center
+    background: true
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    text: >-
+      **Un suivi au jour le jour**
+
+
+
+
+      Je travaille depuis 2 ans avec une plateforme très sophistiquée, dédiée aux sports d’endurance, mais que j’ai peu à peu réorganisée pour qu’elle me permette d’accompagner des grimpeurs au cours de leur saison. 
+
+
+      Je paye en tant que « coach » ce service, mais il est gratuit pour mes athlètes. 
+
+
+
+
+      Pour résumer, car j’ai déjà produit à ce sujet dans divers articles (lien), ce que j’apprécie avec Nolio c’est : 
+
+
+      \- de pouvoir créer des plans d’entraînement (bloc de 4 à 6 semaines en général) que je peux aménager à la carte en fonction des profils et des besoins des grimpeur
+
+
+      \- de pouvoir créer des dizaines de séances par thématique, où je peux glisser mes contenus, mes consignes, aides (image, vidéo)
+
+
+      \- de pouvoir quantifier précisément ce qui est fait ou pas par mes athlètes (bascule du « prévu » vers le « réalisé »)
+
+
+      \- de pouvoir mesurer grâce au retour de séance, les ressentis, la perception de l’intensité de la séance, les décalages avec ce que j’avais prévu
+
+
+      \- de pouvoir engager une discussion avec le grimpeur pour mieux cerner ses besoins et réguler/aménager les prochaines séances
+
+
+
+
+      Par ailleurs c’est un outil exceptionnel quant à la gestion de la charge. 
+
+
+      Sans rentrer ici dans les détails cela permet d’avoir des garde-fous solides quant au surmenage possible de l’athlète. 
+
+
+
+
+      Cela me permet de planifier en ayant une idée assez précise des plateaux de forme que je peux générer en prévoyant telle ou telle séance pour mon athlète. 
+
+
+
+
+      Dernier point, malgré le travail conséquent réalisé par l’équipe de développement de Nolio, j’avoue n’avoir pas trouvé la bonne formule pour une utilisation efficace de la VFC (variabilité de la fréquence cardiaque). 
+
+
+
+
+      Pourtant la VFC (HRV en anglais) est aujourd’hui un outil très efficace et largement étayé par de nombreuses études scientifiques. 
+
+
+      J’ai fait le choix d’une autre application, dont le processus quotidien me semble plus simple, moins intrusif, et bien sûr éclairant quant aux régulations au jour le jour qu’il permet auprès des grimpeurs.
+    title: "Outil N°1 : Nöliö"
 ---
