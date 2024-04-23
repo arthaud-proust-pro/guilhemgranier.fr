@@ -156,7 +156,9 @@ blocks:
       blank: false
     background: false
     text: >-
-      Il s’agit de savoir où nous aimerions aller et avec qui.  
+      **Il s’agit de savoir où nous aimerions aller et avec qui !** 
+
+
 
 
       Si celui là vise un plateau de forme pour aller finaliser un projet en falaise sur une quinzaine à l’étranger, un autre cherche à basculer régulièrement en finale en coupe de France de bloc, pendant qu’une dernière aimerait s’installer dans le 7ème degré en salle. 
@@ -169,10 +171,10 @@ blocks:
 
 
 
-      Il faut donc faire la liste des objectifs prioritaires (échéances), déterminer le volume hebdomadaire de pratique possible, de la part consacrée à la prépa physique, à la grimpe pure, à d’autres sports. 
+      Il faut donc faire la liste des **objectifs prioritaires** (échéances), déterminer le **volume hebdomadaire** de pratique possible, de la part consacrée à la prépa physique, à la grimpe pure, à d’autres sports. 
 
 
-      Et plus que fondamental dans la pratique amateur, il faut mesurer l’impact des contraintes familiales, estudiantines ou professionnelles … 
+      **Et plus que fondamental dans la pratique amateur, il faut mesurer l’impact des contraintes familiales, estudiantines ou professionnelles …** 
 
 
 
@@ -188,8 +190,31 @@ blocks:
       Un manque de sommeil peut enrayer totalement un processus d’assimilation … 
 
 
+      Une planification réussie ne peut-être qu’un savant dosage entre votre vie de tous les jours et vos séances d’entraînement. 
 
 
-      Une planification réussie ne peut-être qu’un savant dosage entre votre vie de tous les jours et vos séances d’entraînement.
+
+
+      J’utilise un [questionnaire papier](https://drive.google.com/file/d/1yV83drRsxdpkuqHiXzpiAKPWjXDc2G58/view?usp=drivesdk) qui me permet de mieux vous cerner et de savoir ce que vous visez en terme sportif. 
+
+
+      Santé : des grosses blessures aux petits pépins récurrents
+
+
+      Semaine type : volume possible de travail
+
+
+      Objectifs sportifs
+
+
+      Orientation : vos axes de travail en prépa physique (avant tests)
+
+
+      Outils : votre matériel perso (musculation, ceinture cardio, poutre, etc …)
+
+
+
+
+      Cet auto-scan permet de poser un premier diagnostic qui sera complété par les tests de terrain.
     title: Détermination des objectifs du grimpeur
 ---
