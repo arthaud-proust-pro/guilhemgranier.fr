@@ -18,10 +18,10 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/main-grimpe.jpeg
+      src: /images/uploads/1000_f_204778990_q6mmzhram1qrbzdhnj1mje1r8rj2c9es.jpg
     grid: medium
     offset: center
-    background: true
+    background: false
   - notes:
       - text: "C. Poliquin fut un éminent spécialiste canadien du développement de la
           force, auteur de nombreux ouvrages dont The Poliquin Principles -
@@ -78,4 +78,55 @@ blocks:
     offset: center
     title: "Tester : les ratios de force "
     type: paragraph
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: true
+    text: >-
+      Grâce à l’émergence d’outils de mesure des forces appliquées sur les
+      préhensions nous pouvons désormais de façon assez simple établir un
+      **profil** sur la force à doigts du grimpeur. 
+
+
+
+
+      Un peu comme le **profil Force-Vitesse** cher à [JB Morin](https://jbmorin.net/), nous sommes en capacité de donner un ou des axes de travail à un athlète suite à la passation de ces tests. 
+
+
+
+
+      Je travaille avec un **Tindeq Progression 150**, petit outil fabriqué en Norvège, sorte de dynamomètre connecté en Bluetooth à un téléphone ou une tablette et qui permet de déterminer deux choses essentielles. 
+
+
+
+
+      **D’abord, la force maximale des fléchisseurs d’une main** (exercice réalisé des deux côtés).
+
+
+
+
+      Mesurée en kg/s elle révèle la capacité d’un sujet à tirer très fort vers le bas quelques secondes avec une seule main sur une préhension type réglette de 15 ou 20mm (à choisir en fonction du niveau de l’athlète). 
+
+
+      Je ne rentre pas ici dans les variantes de ce test qui permettent de faire des mesures sur la chaîne épaule, coude, poignet, main. 
+
+
+
+
+      On peut comparer cette valeur au **1RM** de la musculation qui permet ensuite de cibler un % du max en fonction des besoins de l’athlète (masse musculaire, force max, etc …). 
+
+
+
+
+      **Ensuite on peut déterminer la force critique des fléchisseurs**, toujours de façon isolée, une main après l’autre. 
+
+
+      Il s’agit d’un protocole de 24 répétitions de 7’’ où vous donnez votre max, entrecoupées de micro-repos de 3’’. 
+
+
+      Au cours de ces 4’, on observe assez rapidement une inflexion de la force appliquée (graphique ci-contre).
+    title: "Force à doits maximale vs Force critique "
 ---
