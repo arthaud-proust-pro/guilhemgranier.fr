@@ -148,4 +148,48 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    text: >-
+      Il s’agit de savoir où nous aimerions aller et avec qui.  
+
+
+      Si celui là vise un plateau de forme pour aller finaliser un projet en falaise sur une quinzaine à l’étranger, un autre cherche à basculer régulièrement en finale en coupe de France de bloc, pendant qu’une dernière aimerait s’installer dans le 7ème degré en salle. 
+
+
+
+
+      Sur ces 3 objectifs distincts, les blocs de travail ainsi que les séances seront très différentes. 
+
+
+
+
+      Il faut donc faire la liste des objectifs prioritaires (échéances), déterminer le volume hebdomadaire de pratique possible, de la part consacrée à la prépa physique, à la grimpe pure, à d’autres sports. 
+
+
+      Et plus que fondamental dans la pratique amateur, il faut mesurer l’impact des contraintes familiales, estudiantines ou professionnelles … 
+
+
+
+
+      L’erreur est bien souvent de ne pas composer avec ces dernières et de basculer en sur-entraînement en ne considérant que la charge (stress) liée à vos séances et pas au reste. 
+
+
+
+
+      Or, une échéance professionnelle peut générer un stress bien plus important qu’un bloc de force max dans une préparation.  
+
+
+      Un manque de sommeil peut enrayer totalement un processus d’assimilation … 
+
+
+
+
+      Une planification réussie ne peut-être qu’un savant dosage entre votre vie de tous les jours et vos séances d’entraînement.
+    title: Détermination des objectifs du grimpeur
 ---
