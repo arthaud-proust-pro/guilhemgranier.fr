@@ -21,7 +21,7 @@ blocks:
       src: /images/uploads/img_5359.jpeg
     grid: medium
     offset: center
-    background: false
+    background: true
   - notes:
       - text: "C. Poliquin fut un éminent spécialiste canadien du développement de la
           force, auteur de nombreux ouvrages dont The Poliquin Principles -
