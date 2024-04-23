@@ -17,7 +17,7 @@ blocks:
   - type: figure
     figure:
       linear: false
-      screenshot: true
+      screenshot: false
       src: /images/uploads/main-grimpe.jpeg
     grid: medium
     offset: center
