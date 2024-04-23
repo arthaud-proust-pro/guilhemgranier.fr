@@ -18,7 +18,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/img_5359.jpeg
+      src: /images/uploads/women-climbing-by-climbing-donna.jpg
     grid: medium
     offset: center
     background: true
