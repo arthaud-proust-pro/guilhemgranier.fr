@@ -18,7 +18,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/photo-article-site.jpg
+      src: /images/uploads/img_5359.jpeg
     grid: medium
     offset: center
     background: false
