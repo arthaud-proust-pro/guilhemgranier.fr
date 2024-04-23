@@ -95,7 +95,7 @@ blocks:
     align: left
     cta:
       blank: false
-    background: true
+    background: false
     text: >-
       Grâce à l’émergence d’outils de mesure des forces appliquées sur les
       préhensions nous pouvons désormais de façon assez simple établir un
