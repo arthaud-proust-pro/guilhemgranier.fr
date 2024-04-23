@@ -34,14 +34,14 @@ blocks:
     grid: small
     text: >-
       D’abord, il s’agit d’évaluer pour essayer de détecter ce qui est fort chez
-      l’athlète mais aussi ce qui est faible. Car comme le dit Charles
-      Poliquin  : « une chaîne n’est jamais plus forte que son maillon le plus
+      l’athlète mais aussi ce qui est faible. Car comme le dit Charles Poliquin
+      (1)  : « une chaîne n’est jamais plus forte que son maillon le plus
       faible ». 
 
 
 
 
-      Formé par Olivier Bolliet  à évaluation des Ratios de Force sur les principaux patterns de la biomécanique humaine, je fais passer aux grimpeurs des tests qui permettent de mettre en évidence leurs zones fragiles. Ce sont ces faiblesses qui déclenchent les blessures et qui limitent le développement de la force. 
+      Formé par Olivier Bolliet (2) à évaluation des Ratios de Force sur les principaux patterns de la biomécanique humaine, je fais passer aux grimpeurs des tests qui permettent de mettre en évidence leurs zones fragiles. Ce sont ces faiblesses qui déclenchent les blessures et qui limitent le développement de la force. 
 
 
 
