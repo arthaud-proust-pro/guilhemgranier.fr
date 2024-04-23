@@ -78,6 +78,14 @@ blocks:
     offset: center
     title: "Tester : les ratios de force "
     type: paragraph
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/img_5079.png
+    grid: medium
+    offset: center
+    background: false
   - type: paragraph
     grid: small
     offset: center
@@ -129,4 +137,12 @@ blocks:
 
       Au cours de ces 4’, on observe assez rapidement une inflexion de la force appliquée (graphique ci-contre).
     title: "Force à doits maximale vs Force critique "
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/img_5076.jpeg
+    grid: medium
+    offset: center
+    background: true
 ---
