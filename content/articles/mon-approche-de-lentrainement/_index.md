@@ -84,7 +84,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/img_2024-04-23-153948.png
+      src: /images/uploads/img_5076.jpeg
       legend: "Capteur de force Tindeq "
     grid: medium
     offset: center
@@ -144,7 +144,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/img_5076.jpeg
+      src: /images/uploads/img_5363.jpeg
     grid: medium
     offset: center
     background: true
