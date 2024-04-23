@@ -19,6 +19,7 @@ blocks:
       linear: false
       screenshot: false
       src: /images/uploads/img_2024-04-23-152429.png
+      legend: "Photo Antoine Remy "
     grid: medium
     offset: center
     background: true
