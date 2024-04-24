@@ -105,6 +105,7 @@ blocks:
     background: false
     figure:
       src: /images/uploads/img18.jpg
+      legend: Photo Akuna (J.M. Gueye)
   - type: paragraph
     grid: small
     offset: center
