@@ -221,7 +221,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/img_2024-04-23-133515.png
+      src: /images/uploads/img_5365.jpeg
     grid: medium
     offset: center
     background: true
