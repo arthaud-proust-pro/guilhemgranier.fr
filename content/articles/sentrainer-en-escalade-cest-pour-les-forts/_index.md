@@ -196,7 +196,8 @@ blocks:
     background: false
     figure:
       src: /images/uploads/img45.jpg
-      credit: Photo Arthaud Proust
+      credit: ""
+      legend: Photo Arthaud Proust
   - type: paragraph
     grid: small
     offset: center
