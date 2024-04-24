@@ -222,6 +222,7 @@ blocks:
       linear: false
       screenshot: false
       src: /images/uploads/img_5365.jpeg
+      legend: "Une partie de l’interface Nöliö "
     grid: medium
     offset: center
     background: true
