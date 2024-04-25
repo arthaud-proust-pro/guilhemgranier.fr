@@ -285,7 +285,7 @@ blocks:
     cta:
       blank: false
     background: false
-    title: "Pour finir "
+    title: "Trouver chaussure à son pied "
     text: >-
       Je crois que s’entraîner de façon appliquée et réfléchie **ce n’est pas
       forcément se prendre au sérieux**. J’admets que cela peut générer une
