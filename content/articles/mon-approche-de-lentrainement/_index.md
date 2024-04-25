@@ -290,4 +290,46 @@ blocks:
 
       J’ai fait le choix d’une autre application, dont le processus quotidien me semble plus simple, moins intrusif, et bien sûr éclairant quant aux régulations au jour le jour qu’il permet auprès des grimpeurs.
     title: "Outil N°1 : Nöliö"
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    text: >-
+      **Mesure quotidienne des réponses de votre organisme face aux différents
+      stress (entraînement, boulot, famille, etc … )** 
+
+
+
+
+      Comme je l’ai expliqué plus haut, je ne suis pas un accro à la HRV, car la plupart des athlètes avec qui je collabore n’arrivent pas à en faire une utilisation régulière et donc pertinente. Le premier point d’achoppement étant qu’une mesure de qualité implique un protocole très fastidieux (5’ allongé et 5’ debout), une vraie compétence quant au traitement des données (que je ne suis pas en mesure de faire correctement actuellement). 
+
+
+      Nöliö propose une formule allégée (5’ allongé au réveil) et une modélisation informatique qui vous donne une tendance juste après la mesure. Elle peut être très intéressante dans certains cas. 
+
+
+
+
+      **HRV for Training** 
+
+
+      Cette application, fruit de très longues années de travail scientifique de **Marco Altini**, permet de mesurer, jour après jour, **vos tendances physiologiques** via la caméra de votre téléphone. 
+
+
+
+
+      En combinant vos valeurs de pouls au repos, votre variabilité de fréquence cardiaque, ainsi que son évolution et le niveau de votre charge d’entraînement cette formule peu intrusive de la HRV permet de mesurer comment réagit votre organisme face aux sollicitations de l’entraînement 
+
+
+
+
+      **Une mesure matinale et quotidienne de 2’** avec votre téléphone permet jour après jour d’observer vos réponses face aux différentes sollicitations, qu’elles soient sportives, professionnelles, familiales.
+
+
+
+
+      La compilation de ces données dans le temps accroît la qualité de la modélisation et donc la pertinence de votre affinage, jour après jour.
+    title: "Outil N°2 : VFC (variabilité de la fréquence cardiaque) ou pas ? "
 ---
