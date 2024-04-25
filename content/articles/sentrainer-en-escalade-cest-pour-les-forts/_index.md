@@ -262,6 +262,29 @@ blocks:
     cta:
       blank: false
     background: false
+    title: "S’entraîner c’est en faire un peu moins, mais mieux ! "
+    text: >-
+      **Fini le « à muerte » !** 
+
+
+
+
+      Grand classique dans le milieu de la grimpe et des autres sports : tu ne rentres chez toi que lorsque tu as 3 steaks par main, les bras bétonnés et que ton t-shirt ressemble à une serpillère… 
+
+
+      Je ne dis pas que ce n’est pas parfois sympa de finir à genoux, car c’est aussi pour cela que beaucoup d’entre nous faisons du sport : tout lâcher jusqu’à une mise à zéro des batteries. 
+
+
+
+
+      Mais cette approche unique est tellement chronophage, épuisante à termes et surtout très limitative quant à vos progrès !
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
     title: "Pour finir "
     text: >-
       Je crois que s’entraîner de façon appliquée et réfléchie **ce n’est pas
