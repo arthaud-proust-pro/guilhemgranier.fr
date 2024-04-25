@@ -212,11 +212,7 @@ blocks:
       de faire des entraînements très différents les uns des autres. 
 
 
-
-
       Par période, je vais pouvoir **orienter mon travail** car les objectifs sont différents au grès de mon calendrier (bloc, diff, falaise, projet, compétition …) 
-
-
 
 
       **Il n’y a rien de plus motivant que de varier ses séances**, les sollicitations, les contraintes … 
@@ -225,32 +221,22 @@ blocks:
       Sur le plan psychologique, cette variété est un vrai  moteur car cela permet de lutter contre la lassitude. 
 
 
-
-
       Sur le plan physio, **varier les sollicitations est la meilleure des voies pour obtenir des réponses fortes de son organisme**. En effet, l’écueil le plus répandu est de répéter trop souvent le même type de séance, en durée, en intensité … car on atteint très vite un plafond. 
-
-
 
 
       Diversifier, c’est aussi une excellente **méthode de prévention** des blessures, car c’est souvent la très grande répétition mécanique qui génère les tendinopathies, les fractures de fatigue et autres bobos d’usure. 
 
 
+      **Diversifier, c’est aller du 1/10 au 10/10 en RPE (ressenti de l’effort)**. 
 
 
-      Diversifier, c’est aller du 1/10 au 10/10 en RPE (ressenti de l’effort). 
-
-
-      En effet, les entraînements sont trop souvent monocordes : toujours en intensité 5, 6 ou 7/10.
-
-
+      En effet, les entraînements sont trop souvent monocorde.
 
 
       Il faut pouvoir faire cohabiter dans la même semaine une séance cardio en zone 2 (endurance fondamentale) et une séance de force maximale (10/10). 
 
 
       Ces deux séances vont se compléter l’une l’autre, car elles requièrent une disponibilité psychologique et physique tout à fait différente. 
-
-
 
 
       Diversifier c’est aussi s’amuser car on se retrouve un peu créateur de ses propres entraînements, souvent glanés sur le web, dans des livres ou des discussions informelles, mais qu’il faut digérer à sa sauce pour les adapter à ses besoins.
@@ -267,17 +253,16 @@ blocks:
       **Fini le « à muerte » !** 
 
 
-
-
       Grand classique dans le milieu de la grimpe et des autres sports : tu ne rentres chez toi que lorsque tu as 3 steaks par main, les bras bétonnés et que ton t-shirt ressemble à une serpillère… 
 
 
-      Je ne dis pas que ce n’est pas parfois sympa de finir à genoux, car c’est aussi pour cela que beaucoup d’entre nous faisons du sport : tout lâcher jusqu’à une mise à zéro des batteries. 
+      Je ne dis pas que ce n’est pas sympa de finir à genoux, parfois, car c’est aussi pour cela que beaucoup d’entre nous faisons du sport : tout lâcher jusqu’à une mise à zéro des batteries. 
 
 
+      Mais cette approche unique est tellement chronophage, épuisante à terme et surtout très limitative quant à vos progrès !
 
 
-      Mais cette approche unique est tellement chronophage, épuisante à termes et surtout très limitative quant à vos progrès !
+      Comme évoqué plus haut, en fonction de vos objectifs vous devez balayer des séances à très faible intensité, centrées sur des éléments tactiques, des séances médium où l’enjeu peut-être centré sur la pose des pieds, le placement … et des séances où il faut vraiment sortir de sa zone de confort avec une intensité max. Mais intensité max n’implique pas forcément épuisement. C’est souvent une belle confusion !
   - type: paragraph
     grid: small
     offset: center
