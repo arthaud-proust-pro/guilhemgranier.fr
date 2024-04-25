@@ -264,31 +264,32 @@ blocks:
     background: false
     title: "Pour finir "
     text: >-
-      Je crois que s’entraîner de façon appliquée et réfléchie ce n’est pas
-      forcément se prendre au sérieux. J’admets que cela peut générer une forme
-      de pression pour certains qui n’ont pas envie de se donner à voir face à
-      la communauté des grimpeurs comme des dingos du training. 
+      Je crois que s’entraîner de façon appliquée et réfléchie **ce n’est pas
+      forcément se prendre au sérieux**. J’admets que cela peut générer une
+      forme de pression pour certains qui n’ont pas envie de se donner à voir
+      face à la communauté des grimpeurs comme des dingos du training. 
+
+
+      L’escalade reste un sport « fun » et je comprends que basculer dans un protocole de planification, de séances à respecter au jour le jour, peut être vécu comme un enfermement. 
+
+
+      Il faut donc trouver le **juste milieu en fonction de votre personnalité** et déterminer au grès de vos expériences ce qui vous va bien, avec un ratio positif entre les contraintes et les progrès sur le mur.
 
 
 
 
-      L’escalade reste un sport « fun » et je comprends que basculer dans un protocole de planification, de de séances à respecter au jour le jour ce qui est prévu peut être vécu comme un enfermement. 
+      **Mais pour cela, il faut quand même essayer, pour voir !** 
 
 
 
 
-      Il faut donc trouver le juste milieu en fonction de votre personnalité et déterminer au grès de vos expériences ce qui vous vont bien, avec un ratio positif entre les contraintes et les progrès que cela génère sur le mur.  Mais pour cela, il faut quand même essayer, pour voir ! 
+      Arriver dans votre salle avec **un plan clair de votre séance pourra vous aider à ne pas partir dans tous les sens**, comme essayer compulsivement les nouvelles ouvertures de la semaine ! 
+
+
+      J’aime à cette idée que l’on puisse passer 6 à 8 semaines dans un bloc de travail pour profiter de façon différée des fruits de ses efforts. 
 
 
 
 
-      Je suis assez convaincu que la structuration réfléchie de votre entraînement est un vrai garde fou à la monotonie, contrairement aux idées reçues. 
-
-
-      Arriver dans votre salle avec un plan clair de votre séance pourra vous aider à ne pas partir dans tous les sens, comme essayer compulsivement les nouvelles ouvertures de la semaine ! 
-
-
-
-
-      J’aime à cette idée que l’on puisse passer 6 à 8 semaines dans un bloc de travail pour profiter de façon différée les fruits de ses efforts. C’est une forme d’éloge de la patience, de la persévérance et surtout un sacré gros kiff !
+      C’est une forme d’éloge de la patience, de la persévérance et surtout un sacré gros kiff !
 ---
