@@ -325,7 +325,7 @@ blocks:
 
 
 
-      **Une mesure matinale et quotidienne de 2’** avec votre téléphone permet jour après jour d’observer vos réponses face aux différentes sollicitations, qu’elles soient sportives, professionnelles, familiales.
+      **L’intérêt que je vois c’est que le protocole est vraiment léger :** une mesure matinale et quotidienne de 2’ avec la caméra de votre téléphone (compatible Android et IOS). Pas de ceinture cardio à installer. 
 
 
 
