@@ -97,4 +97,32 @@ blocks:
     grid: medium
     offset: center
     background: false
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    title: "Programmer "
+    text: >-
+      Utiliser une plateforme dédiée à l’entraînement c’est avant tout passer un
+      cap en acceptant de se mettre à penser une programmation sur le court, le
+      moyen et le long terme, chose on ne peut plus complexe et ce qu’elle que
+      soit l’activité sportive.
+
+
+
+
+      En escalade, il y a deux phases de compétition dans l’année : automne et hiver consacré au bloc qui demande beaucoup de force, de qualité de coordination, de l’explosivité pour un effort bref d’environ 4 à 8 mouvements. 
+
+
+
+
+      Le printemps et l’été sont dédiés à la difficulté où le grimpeur doit essayer d’atteindre le sommet d’une voie de 12 à 15m : ici la lecture de la voie et la méthode choisie par le grimpeur sont centrales ainsi que sa capacité à économiser ses fléchisseurs (doigts et poignets). L’affectif est aussi très important car la peur de la chute peut vraiment être un facteur très limitant. 
+
+
+
+
+      Je n’évoquerai pas la vitesse, non travaillée réellement par mon groupe, n’ayant pas l’outil de travail aux normes : mur de 15 mètres avec enrouleur rapide.
 ---
