@@ -98,7 +98,7 @@ blocks:
         avec capteurs permettant une mesure des forces appliquées. "
     grid: medium
     offset: center
-    background: false
+    background: true
   - type: paragraph
     grid: small
     offset: center
@@ -109,14 +109,14 @@ blocks:
     title: "Programmer "
     text: >-
       Utiliser une plateforme dédiée à l’entraînement c’est avant tout passer un
-      cap en acceptant de se mettre à penser une programmation sur le court, le
-      moyen et le long terme, chose on ne peut plus complexe et ce qu’elle que
-      soit l’activité sportive.
+      cap en acceptant de **se mettre à penser une programmation sur le court,
+      le moyen et le long terme**, chose on ne peut plus complexe et ce qu’elle
+      que soit l’activité sportive.
 
 
 
 
-      En escalade, il y a deux phases de compétition dans l’année : automne et hiver consacré au bloc qui demande beaucoup de force, de qualité de coordination, de l’explosivité pour un effort bref d’environ 4 à 8 mouvements. 
+      **En escalade, il y a deux phases de compétition dans l’année** : automne et hiver consacré au bloc qui demande beaucoup de force, de qualité de coordination, de l’explosivité pour un effort bref d’environ 4 à 8 mouvements. 
 
 
 
@@ -126,5 +126,78 @@ blocks:
 
 
 
-      Je n’évoquerai pas la vitesse, non travaillée réellement par mon groupe, n’ayant pas l’outil de travail aux normes : mur de 15 mètres avec enrouleur rapide.
+      Je n’évoquerai pas la vitesse, non travaillée réellement par mon groupe, n’ayant pas l’outil de travail aux normes : mur de 15 mètres avec enrouleur rapide. 
+
+
+
+
+      **Ces deux moments dans l’année simplifient sans doute un peu la planification** tout comme le peu de compétitions proposées (départemental, régional, inter région, national … pour ceux qui vont au bout). 
+
+
+      On peut donc travailler sans compétition de septembre à fin novembre. Les 2 premières échéances  sont placées début décembre et début janvier pour tous les membres du groupe. 
+
+
+
+
+      Je dispose donc de 3 mois de travail, une compétition, 3 semaines, une compétition. 
+
+
+      Sur ces douze semaines, concernant la préparation physique, nous faisons d’abord un cycle d’endurance de force (5 semaines) puis un cycle de force (3 semaines), suivi d’un cycle d’explosivité (2 semaines) puis une phase d’affutage (2 semaines). 
+
+
+
+
+      Je n’entre pas d’avantage dans les détails de ce programme, discutable en tous points, mais qui a largement vu progresser les grimpeurs en force max (charge max, vitesse faible)  mais aussi en vitesse-force (charge faible 30-40%, vitesse élevée). 
+
+
+
+
+      La grande place accordée à l’endurance de force est à corréler à l’apprentissage des patterns de la musculation par les élèves : sécurité, posture, respiration, trajet moteur, cadence … 
+
+
+      Il s’agit d’intégrer les règles techniques des fondamentaux : développé couché, squat, tirage dos vertical/horizontal,   traction, etc … 
+
+
+
+
+      **L’approche est prophylactique : se renforcer pour ne pas se blesser et rendre possible les progrès sur le long terme.** 
+
+
+
+
+      Beaucoup de répétitions et de faibles charges sont de vrais garde-fous pour éviter les blessures en apprenant à maîtriser des trajets moteurs propres, les verrouillages nécessaires pour protéger une articulation, savoir détecter une dégradation gestuelle pour arrêter sa série. 
+
+
+      Ces acquis sont indispensables pour augmenter les charges ou la vitesse d’exécution.
+
+
+
+
+      Nous verrons un peu plus loin dans l’article la place faite au renforcement musculaire, notamment avec des exemples de séance type et l’utilisation des métriques dans Nöliö. 
+
+
+
+
+      **La plateforme permet donc d’abord un travail par période grâce à son calendrier à visualisation hebdo/mois/trimestre/année**. 
+
+
+      Cela peut paraître anodin, mais ayant pratiqué d’autres interfaces, je trouve que la plasticité des éléments à voir est vraiment de très fonctionnelle. Le soin apporté au graphisme est également très agréable et je rajoute que tout est paramétrable à souhait, ce qui est tout à fait rare.
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/img_5365.jpeg
+      legend: "Une semaine de séance planifiée pour un des grimpeurs du groupe : la
+        variété des séances est repérable grâce aux couleurs mais aussi avec les
+        labels : renforcement muscu, rési courte, bloc tactique… La bandelette
+        rouge représente la fin d’un cycle dédié à la force explosive et la
+        grise signale l’entrée dans un cycle d’affutage pré compétitif :
+        réduction du volume d’entraînement mais maintient de l’intensité. Pour
+        finir, les petits logos indiquent si la séance a été programmée pour le
+        groupe (c’est le cas dans notre exemple) ou individualisée. Le petit
+        mousqueton signale que la séance comporte de l’escalade et pas seulement
+        un travail physique (haltérophile)."
+    grid: medium
+    offset: center
+    background: false
 ---
