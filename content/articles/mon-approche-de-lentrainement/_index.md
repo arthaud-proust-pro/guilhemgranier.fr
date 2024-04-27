@@ -301,7 +301,7 @@ blocks:
     align: left
     cta:
       blank: false
-    background: false
+    background: true
     text: >-
       **Mesure quotidienne des réponses de votre organisme face aux différents
       stress (entraînement, boulot, famille, etc … )** 
