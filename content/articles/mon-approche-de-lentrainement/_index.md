@@ -2,6 +2,8 @@
 isPage: true
 draft: false
 title: Mon approche de l'entraînement
+image:
+  src: /images/uploads/1000_f_204778990_q6mmzhram1qrbzdhnj1mje1r8rj2c9es.jpg
 hero:
   cta:
     blank: false
