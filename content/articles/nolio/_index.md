@@ -199,7 +199,7 @@ blocks:
         un travail physique (haltérophile)."
     grid: medium
     offset: center
-    background: false
+    background: true
   - type: paragraph
     grid: small
     offset: center
