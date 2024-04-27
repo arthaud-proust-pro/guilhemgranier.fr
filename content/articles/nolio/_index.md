@@ -43,7 +43,7 @@ blocks:
       Ils s’entraînent de 5 à 8 fois par semaine, tantôt avec moi, tantôt avec un entraîneur de club (partenariat).
 
 
-      J’ai d’avantage la partie préparation athlétique que la partie pure escalade.
+      J’ai d'avantage la partie préparation athlétique que la partie pure escalade.
     title: Détourner les usages
   - type: figure
     figure:
@@ -53,25 +53,24 @@ blocks:
     grid: medium
     offset: center
     background: true
-  - type: paragraph
-    grid: small
-    offset: center
+  - notes:
+      - text: >-
+          [*] Travaux de recherche du Dr Laurent Vigouroux, maître de
+          conférences Aix-Marseille Université, expert en biomécanique et en
+          physiologie de la main à l’Institut des Sciences du Mouvement
+          Etienne-Jules Marey,
+
+          [*] R. Samyn, Grimper #191, Septembre 2018, p6
     align: left
-    cta:
-      blank: false
-    background: false
+    grid: small
     text: >-
       Oubliés les watts, le RPM, le D+, le FTP, la moyenne horaire et le reste. 
 
 
-      Malgré l’apparition de premiers outils de mesure comme des poutres avec capteur (photo ci-contre ), l’entraînement du grimpeur n’est pas appareillé rendant inopérantes la kyrielle d’analyses  statistiques proposées par Nöliö mais aussi toutes les séances préparées en amont pour être envoyées à nos fameuses montres (séance dite « structurée » qui permet un guidage pas à pas depuis le terminal tout en pédalant ou courant).  
+      Malgré l’apparition de premiers outils de mesure comme des poutres avec capteur (photo ci-contre \[*]), l’entraînement du grimpeur n’est pas appareillé rendant inopérantes la kyrielle d’analyses  statistiques proposées par Nöliö mais aussi toutes les séances préparées en amont pour être envoyées à nos fameuses montres (séance dite « structurée » qui permet un guidage pas à pas depuis le terminal tout en pédalant ou courant).  
 
 
-
-
-      Cela pourrait donc être considéré comme un manque pour certains coachs issus du milieu de l’endurance, mais en l’escalade, vu qu’il n’existe pas vraiment de système de collecte des données résultant de l’activité du grimpeur, point de vide. Il n’y a pas si longtemps, les meilleurs grimpeurs français utilisaient une mesure qui pourra en surprendre certains avec le comptage pur et simple du nombre de mouvements de main réalisés dans une séance. Quel que soit le type de travail on se basait ainsi sur un élément quantifiable : le nombre de « mouv » engagés  par le haut du corps, avec une notion d’intensité des dits mouvements, quand même, type RPE de Foster. Je vous laisse imaginer un carnet d’entraînement de coureur où ne seraient référencés que le nombre de foulées … 
-
-
+      Cela pourrait donc être considéré comme un manque pour certains coachs issus du milieu de l’endurance, mais en l’escalade, vu qu’il n’existe pas vraiment de système de collecte des données résultant de l’activité du grimpeur, point de vide. Il n’y a pas si longtemps, les meilleurs grimpeurs français utilisaient une mesure qui pourra en surprendre certains avec le comptage pur et simple du nombre de mouvements de main réalisés dans une séance \[*]. Quel que soit le type de travail on se basait ainsi sur un élément quantifiable : le nombre de « mouv » engagés  par le haut du corps, avec une notion d’intensité des dits mouvements, quand même, type RPE de Foster. Je vous laisse imaginer un carnet d’entraînement de coureur où ne seraient référencés que le nombre de foulées … 
 
 
       Pour ceux qui l’ignorent, le niveau de performance en escalade est relatif à la voie ou au bloc que vous avez été capable de réaliser (atteindre le sommet). Les cotations, sujet on ne peut plus discuté au sein de la communauté, sont proposées par les ouvreurs ou le premier grimpeur qui réussit à aller au sommet. Les suivants confirmeront ou pas la proposition de cotation.  En prolongeant le rapprochement avec la CAP, point de tergiversation quant à votre chrono sur un 10km plat. Si vous faites 50’ ou 35’, chacun saura situer votre niveau.  
@@ -83,10 +82,13 @@ blocks:
       La course, il faut la faire ! 
 
 
-
-
       Ce petit préambule étant fait, voici comment j’utilise Nöliö, après 4 mois de paramétrages et d’adaptations, bien conscient de n’exploiter que très peu la puissance de l’outil !
+    background: false
+    cta:
+      blank: false
+    offset: center
     title: Mais où sont les datas ?
+    type: paragraph
   - type: figure
     figure:
       linear: false
