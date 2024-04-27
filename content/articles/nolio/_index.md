@@ -186,7 +186,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/img_5365.jpeg
+      src: /images/uploads/nolio-semaine.jpg
       legend: "Une semaine de séance planifiée pour un des grimpeurs du groupe : la
         variété des séances est repérable grâce aux couleurs mais aussi avec les
         labels : renforcement muscu, rési courte, bloc tactique… La bandelette
