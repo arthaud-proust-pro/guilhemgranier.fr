@@ -233,7 +233,10 @@ blocks:
     offset: center
     align: left
     cta:
-      blank: false
+      blank: true
+      url: https://guilhemgranier.fr/articles/nolio/
+      text: Lire l'article qui traite de l'expérience avec un groupe de jeunes
+        grimpeur et Nöliö
     background: false
     text: >-
       **Un suivi au jour le jour**
