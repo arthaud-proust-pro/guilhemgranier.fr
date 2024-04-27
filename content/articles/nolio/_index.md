@@ -211,7 +211,8 @@ blocks:
       de basculer la séance du jour dans le mode « réalisé » une fois qu’elle
       est faite. Il aura à ce moment là des informations à me communiquer, comme
       son ressenti quant à l’effort fourni dans la séance (échelle RPE de
-      Foster) et ses sensations globales : de très bien à horrible."
+      Foster) et ses sensations globales : de très bien à horrible (capture
+      ci-contre)."
     title: Réaliser et commenter
   - type: figure
     figure:
@@ -221,4 +222,22 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    text: >-
+      Ces deux premiers retours sont précieux car, bien qu’ils soient basés que
+      sur les perceptions de l’athlète, ils permettent un visionnage très rapide
+      de son état général en fin de séance, de constater un décalage avec
+      l’intensité d’effort ressentie que j’avais prévue en amont.
+
+
+      Par ailleurs je demande expressément aux grimpeurs de renseigner tout ce qu’ils ont vraiment fait dans la séance : quel atelier ?, quelle charge ?, combien de voies ?, quel niveau ?, combien de blocs ?, combien d’essais ? combien de récup ? 
+
+
+      Même si je rédige la séance en amont il est très important qu’ils puissent me donner des infos sur ce qu’ils ont vécu réellement. Déjà, parce qu’il n’est pas rare que la séance soit modifiée ou adaptée, mais aussi et surtout parce que ce retour écrit est à mes yeux fondamental dans le processus d’entraînement.
 ---
