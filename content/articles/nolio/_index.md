@@ -240,4 +240,13 @@ blocks:
 
 
       Même si je rédige la séance en amont il est très important qu’ils puissent me donner des infos sur ce qu’ils ont vécu réellement. Déjà, parce qu’il n’est pas rare que la séance soit modifiée ou adaptée, mais aussi et surtout parce que ce retour écrit est à mes yeux fondamental dans le processus d’entraînement.
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/retours-nolio.png
+      legend: Fenêtre de retours post séance de l'athlète
+    grid: medium
+    offset: center
+    background: true
 ---
