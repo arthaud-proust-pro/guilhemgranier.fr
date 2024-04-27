@@ -200,4 +200,25 @@ blocks:
     grid: medium
     offset: center
     background: false
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    text: "En tant que coach, s’il m’incombe de programmer, c’est bien au grimpeur
+      de basculer la séance du jour dans le mode « réalisé » une fois qu’elle
+      est faite. Il aura à ce moment là des informations à me communiquer, comme
+      son ressenti quant à l’effort fourni dans la séance (échelle RPE de
+      Foster) et ses sensations globales : de très bien à horrible."
+    title: Réaliser et commenter
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/rpe.jpg
+    grid: medium
+    offset: center
+    background: true
 ---
