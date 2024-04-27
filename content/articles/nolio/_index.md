@@ -4,7 +4,7 @@ draft: false
 title: "Nöliö : un carnet d’entraînement numérique"
 description: ""
 image:
-  src: /images/uploads/logo-nolio.jpg
+  src: /images/uploads/capture-d-e-cran-2024-04-27-a-11.26.37.jpg
 hero:
   cta:
     blank: false
