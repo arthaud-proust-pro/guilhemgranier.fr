@@ -2,9 +2,9 @@
 isPage: true
 draft: false
 title: "Nöliö : un carnet d’entraînement numérique"
-image:
-  src: /images/uploads/nolio-vue-planning.jpg
 description: ""
+image:
+  src: /images/uploads/nolio-logo.jpg
 hero:
   cta:
     blank: false
