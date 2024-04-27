@@ -221,7 +221,7 @@ blocks:
       src: /images/uploads/rpe.jpg
     grid: medium
     offset: center
-    background: true
+    background: false
   - type: paragraph
     grid: small
     offset: center
@@ -244,7 +244,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/retours-nolio.png
+      src: ""
       legend: Fenêtre de retours post séance de l'athlète
     grid: medium
     offset: center
