@@ -44,7 +44,7 @@ blocks:
 
 
       J’ai d'avantage la partie préparation athlétique que la partie pure escalade.
-    title: Détourner les usages
+    title: Préambule
   - type: figure
     figure:
       linear: false
