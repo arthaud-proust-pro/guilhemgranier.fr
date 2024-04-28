@@ -268,7 +268,8 @@ blocks:
 
       Discussion engagée suite à une séance de renforcement sur un tirage poulie haute triceps. Cela permet de valider ou pas une modification de charge et une posture modifiée. 
 
-      			
+
+
 
       C’est peut-être un biais lié à mon activité d’enseignant, mais je l’assume. Je vise une pratique éclairée qui mène à la connaissance de contenus scientifiques vulgarisés et à une vraie autonomie future de l’athlète. Je ne suis pas prestataire d’une méthode magique et secrète dont l’enchantement se fanera avec la fin du cursus. 
 
