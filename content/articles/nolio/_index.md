@@ -380,7 +380,7 @@ blocks:
       à 90° par exemple). 
 
 
-      Une dernière catégorie de métriques que je rangerai dans le tiroir « ratios de force \[*]  », notamment la distance bi-acromiale qui donne en centimètres l’écart entre les deux acromions et utilisée pour le placement des mains sur certains exercices avec un écartement normé, dit anatomique (développé coucher, tractions, tirage clavicules). Cela permet de comparer de façon standardisée certaines valeurs, j’y reviendrai un peu plus loin. 
+      Une dernière catégorie de métriques que je rangerai dans le tiroir « ratios de force\[*]  », notamment la distance bi-acromiale qui donne en centimètres l’écart entre les deux acromions et utilisée pour le placement des mains sur certains exercices avec un écartement normé, dit anatomique (développé coucher, tractions, tirage clavicules). Cela permet de comparer de façon standardisée certaines valeurs, j’y reviendrai un peu plus loin. 
 
 
       La plupart des valeurs sont renseignées en kilogrammes, mais certaines sont en exprimées en durée ou en nombre de répétitions max. 
@@ -395,7 +395,7 @@ blocks:
       Par contre cela implique un suivi accru, car étant avec un groupe jeune qui débute en renforcement musculaire,  leurs progrès sont rapides et il faut donc très régulièrement mettre à jour ces valeurs, sinon les charges sont sous évaluées. 
 
 
-      Par ailleurs, il faudra réaliser un vrai travail de formation quant à l’utilisation de l’application mobile auprès des athlètes pour qu’ils puissent faire ces mises à jour seuls. Ils doivent également bien maîtriser l’utilisation des tables de conversion \[*] pas toujours très simples à décoder surtout quand les valeurs sont faibles.
+      Par ailleurs, il faudra réaliser un vrai travail de formation quant à l’utilisation de l’application mobile auprès des athlètes pour qu’ils puissent faire ces mises à jour seuls. Ils doivent également bien maîtriser l’utilisation des tables de conversion\[*] pas toujours très simples à décoder surtout quand les valeurs sont faibles.
     background: false
     cta:
       blank: false
