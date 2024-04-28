@@ -400,4 +400,15 @@ blocks:
     offset: center
     title: Renforcement musculaire
     type: paragraph
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/capture-d-e-cran-2024-04-28-a-18.29.19.jpg
+      legend: "Formule mathématique de Prévost permettant d’estimer d’établir la
+        valeur des charges du  1RM au 15RM. Exemple : si je peux soulever 6 fois
+        83kg au dév. couché, mon maximum théorique (1RM) est de 100kg"
+    grid: medium
+    offset: center
+    background: true
 ---
