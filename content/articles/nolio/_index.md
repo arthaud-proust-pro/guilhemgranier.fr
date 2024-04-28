@@ -285,4 +285,71 @@ blocks:
     notes:
       - text: "[*](Smits et al., 2008) in Caractéristiques et fonctions des feed-back
           dans les apprentissages Christelle Bosc-Miné, 2014"
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    text: >-
+      L’interface est donc paramétrée initialement pour des déplacements mesurés
+      (vitesse, distance, dénivelé, etc …). 
+
+
+      Pour éclaircir l’environnement j’ai donc ré-organisé les références pour ne garder que ce qui m’intéresse. C’est un peu fastidieux et surtout loin d’être parfait car le process Nöliö est vraiment organisé autour du déplacement et de la physiologie de l’effort de longue durée. 
+
+
+
+
+      Même si vous « nettoyez » un maximum, pas à pas, resteront des références qui ne servent à rien quand on ne se consacre qu’à la grimpe et à la prépa physique. 
+
+
+
+
+      Le 1er exemple, central et structurel : quand vous ajoutez un entraînement à réaliser, impossible de faire disparaitre la case « détails » qui consiste à renseigner le classique : durée, distance, allure, déniv’. 
+
+
+      2ème exemple, quand vous paramétrez le suivi de vos athlètes il existe de fait des catégories comme la Performance (VMA, PMA, Vo2, FTP, etc) ou le Profil Puissance Record (PPR) qui ne trouvent pas encore leur place sur mon champ d’investigation. 
+
+
+      Et là vous me direz, pourquoi diable n’y a t il pas de Performance en Escalade ? Je vous réponds qu’il y en a bien, mais que Nöliö n’est pas encore capable d’intégrer cette dernière car elle utilise un système de référencement un peu bizarre où se croisent des chiffres (1, 2, 3, 4, etc …) des lettres (a, b, c) et des (+). Quand on cumule tout, on va du 1 au 9c en passant par des trucs comme 7b+ (tableau ci contre). 
+
+
+
+
+      Cela demanderait un travail de « correspondance » entre ces cotations pour qu’il soit numériquement intégrable et surtout utilisable pendant les séances de grimpe. Un peu comme une VMA, exprimée en km/h et qui permet de planifier l’intensité d’une séquence de CAP de façon fine.
+
+
+      En escalade, nous utilisons le vocable « sous maximal » pour une séquence à niveau max - 1, ou -2 ou -3. C’est à dire qui nécessite une intensité moindre que votre niveau max pour être dans la cible de travail. 
+
+
+      Par exemple, quand on axe la séance sur un grand volume de travail (endurance de force ou rési longue) en doublant ou triplant les ascensions consécutives sur un niveau vraiment facile pour soi (-2 ou -3). 
+
+
+
+
+      J’ai bien essayé de bricoler une échelle de valeur intégrable en établissant des correspondances avec les cotations, mais les grimpeurs se seraient arrachés les cheveux avec la manipulation de cette énième grille. Il serait très confortable que Nöliö puisse intégrer un jour cette échelle de cotations pour gagner du temps dans l’individualisation des charges de travail sur une même séance. 
+
+
+
+
+      Dans la catégorie Santé, je n’ai gardé que le poids et le sommeil global (non mesuré par un outil) comme références. Mes élèves ne sont pas équipés pour une mesure qualitative de leur sommeil. Quant au taux de masse grasse, il faudrait que je fasse moi même les mesures (méthode de Perronet ou plis cutanés), pour avoir des résultats à peine sérieux et je trouve cela pour le moment trop intrusif pour une pertinence peu évidente. 
+
+
+      Si je garde le poids de l’athlète, c’est que j’en ai besoin en musculation (tractions, dips). 
+
+
+
+
+      Quant au sommeil, j’ai remarqué que certains grimpeurs répertoriaient leur sommeil effectif et je leur ai laissé la main. 
+
+
+
+
+      Dans la catégorie Forme, je ne retiens rien, puisque ce sont des intégrations de matériel haut de gamme dont je ne dispose pas (Garmin, Polar, Incorpus). Pour information, j’expérimente la VFC - variabilité de la fréquence cardiaque, HRV en anglais - sur moi même (Haptools et aujourd’hui la solution proposée par Nöliö) et j’avoue que je suis assez frileux à cette heure à l’idée de la démocratiser à tout le groupe. 
+
+
+      Mes lectures et les retours d’entraîneurs autour de moi sont très contrastés et montrent surtout que les mesures régulières de la VFC peuvent vraiment perturber certains athlètes, voir les stresser fortement. Je tenterai peut-être avec certains profils l’expérience, mais avec une double prise quotidienne (couché/debout) ce qui implique un athlète investi et un temps de traitement des données assez long pour moi.
+    title: Paramétrer Nöliö
 ---
