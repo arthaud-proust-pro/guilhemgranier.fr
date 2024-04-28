@@ -218,7 +218,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/rpe.jpg
+      src: /images/uploads/capture-d-e-cran-2024-04-28-a-17.29.19.jpg
     grid: medium
     offset: center
     background: false
