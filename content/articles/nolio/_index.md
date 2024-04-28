@@ -54,13 +54,11 @@ blocks:
     offset: center
     background: true
   - notes:
-      - text: >-
-          [*] Travaux de recherche du Dr Laurent Vigouroux, maître de
-          conférences Aix-Marseille Université, expert en biomécanique et en
-          physiologie de la main à l’Institut des Sciences du Mouvement
-          Etienne-Jules Marey,
-
-          [*] R. Samyn, Grimper #191, Septembre 2018, p6
+      - text: >
+          Travaux de recherche du Dr Laurent Vigouroux, maître de conférences
+          Aix-Marseille Université, expert en biomécanique et en physiologie de
+          la main à l’Institut des Sciences du Mouvement Etienne-Jules Marey,
+      - text: "R. Samyn, Grimper #191, Septembre 2018, p6"
     align: left
     grid: small
     text: >-
