@@ -368,7 +368,7 @@ blocks:
     align: left
     cta:
       blank: false
-    background: true
+    background: false
     text: >-
       J’ai donc créé une catégorie Musculation avec des références liées aux
       différents patterns travaillés. J’ai actuellement une trentaine de
