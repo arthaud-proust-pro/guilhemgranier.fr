@@ -411,4 +411,57 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - notes:
+      - text: >-
+          Muscle time under tension during resistance exercise stimulates
+          differential muscle protein sub-fractional synthetic responses in men
+
+          NA. Burd & al  (2012) 
+      - text: Velocity loss as an indicator of neuromuscular fatigue during resistance
+          training", Sanchez-Medina & Gonzalez-Badillo, 2011
+    align: left
+    grid: small
+    text: >-
+      Le paramétrage, c’est aussi prévoir en amont vos séances. Sur ce point,
+      n’utilisant pas la séance structurée (à envoyer vers une montre) le profit
+      est loin d’être à la hauteur ce que propose réellement Nölïo, mais cela
+      permet de gagner du temps dans la planification. 
+
+
+      Selon les séances, je rentre plus ou moins dans les détails à propos ce ce qu’il y a à faire. Disons que plus je recherche l’autonomie de l’athlète dans la séance, plus je détaille intégralement le corps de séance. L’inconvénient c’est qu’ils ont leur téléphone tout le temps à côté d’eux. Je reste un prof, et ça me contrarie un peu de voir mes élèves avec un téléphone sorti sur un temps de pratique. 
+
+
+
+
+      L’équipe de Nöliö travaille actuellement au développement d’un module consacré à la musculation. Ce sera sans doute un grand progrès sur ce point et j’espère que nous pourrons paramétrer le nombre de répétitions, de séries et les temps de récupération (qui permettra de définir un tonnage). 
+
+
+      J’espère également que nous pourrons paramétrer la cadence de travail sur le mode 1.0.1.0, où la première valeur correspond à la phase excentrique, la 2ème le temps passé à l’arrêt éventuel entre les 2 phases, la 3ème valeur correspond à la phase concentrique et la 4ème le temps d’arrêt éventuel entre les phases. 
+
+
+      Cela permettrait d’avoir une idée du temps sous tension  (TST\[*]) appliqué au groupe musculaire. 
+
+
+
+
+      Et si j’ai un souhait, vu la capacité qu’a eue jusque ici la team Nöliö à intégrer des outils numériques en provenance d’autres marques, c’est que nous puissions un jour faire communiquer la plateforme avec du matériel VBT\[*] (Velocity Based Training) type Beast Sensor, Vitruve Fit ou Gym Aware pour ne citer qu’eux. 
+
+
+
+
+      Cette approche basée sur la vitesse de déplacement de la barre ou du corps, permet un retour instantané sur la puissance développée à chaque des répétitions (capteurs) et donc la détection facilitée de la dégradation du geste ou d’un passage sous le seuil de perte de vitesse (déterminé par le profil charge/vitesse). 
+
+
+      On arrêtera plus facilement une série une ou deux rép’ avant la fin prévue, parce qu’il ne sert à rien de faire un travail quantitatif quand on vise le développement de certaines qualités (vitesse/force, puissance, explosivité). 
+
+
+
+
+      Cela permet aussi de composer avec la fatigue ou la surcompensation de l’athlète car on peut en cours de séance réévaluer une charge très facilement et permettre un ciblage bien plus fin que l’utilisation du % de 1RM . En effet, les variations du niveau de la force maximale peuvent varier de plus ou moins 15% selon l’état de fatigue ou forme du sujet. Ce monitoring instantané permet de s’adapter et de réguler au coeur de la séance, plutôt de s’échiner à finir telle ou telle série aux forceps, ou de se limiter sur un autre exercice.
+    background: false
+    cta:
+      blank: false
+    offset: center
+    title: Séance type
+    type: paragraph
 ---
