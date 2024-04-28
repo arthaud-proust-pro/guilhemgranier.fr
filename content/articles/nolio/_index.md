@@ -365,9 +365,9 @@ blocks:
   - notes:
       - text: >
           Charle Poliquin 1999, 2006 adapté par Olivier Bolliet, Le Maillon
-          Faible™, webinaire, 2021
-
-          Formule de Prévost (2013) in La Bible de la Préparation Physique p 292 D. Reiss et P. Prévost
+          Faible™, webinaire, 2022
+      - text: Formule de Prévost (2013) in La Bible de la Préparation Physique p 292 D.
+          Reiss et P. Prévost
     align: left
     grid: small
     text: >-
