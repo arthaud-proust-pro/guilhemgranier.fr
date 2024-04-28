@@ -62,13 +62,21 @@ blocks:
     align: left
     grid: small
     text: >-
-      Oubliés les watts, le RPM, le D+, le FTP, la moyenne horaire et le reste. 
+      Malgré l’apparition de premiers outils de mesure comme des poutres avec
+      capteur (photo ci-contre \[*]), **l’entraînement du grimpeur n’est pas
+      appareillé,** rendant inopérantes la kyrielle d’analyses  statistiques
+      proposées par Nöliö mais aussi toutes les séances préparées en amont pour
+      être envoyées à nos fameuses montres.  
 
 
-      Malgré l’apparition de premiers outils de mesure comme des poutres avec capteur (photo ci-contre \[*]), l’entraînement du grimpeur n’est pas appareillé rendant inopérantes la kyrielle d’analyses  statistiques proposées par Nöliö mais aussi toutes les séances préparées en amont pour être envoyées à nos fameuses montres (séance dite « structurée » qui permet un guidage pas à pas depuis le terminal tout en pédalant ou courant).  
 
 
-      Cela pourrait donc être considéré comme un manque pour certains coachs issus du milieu de l’endurance, mais en l’escalade, vu qu’il n’existe pas vraiment de système de collecte des données résultant de l’activité du grimpeur, point de vide. Il n’y a pas si longtemps, les meilleurs grimpeurs français utilisaient une mesure qui pourra en surprendre certains avec le comptage pur et simple du nombre de mouvements de main réalisés dans une séance \[*]. Quel que soit le type de travail on se basait ainsi sur un élément quantifiable : le nombre de « mouv » engagés  par le haut du corps, avec une notion d’intensité des dits mouvements, quand même, type RPE de Foster. Je vous laisse imaginer un carnet d’entraînement de coureur où ne seraient référencés que le nombre de foulées … 
+      Cela pourrait donc être considéré comme un manque pour certains coachs issus du milieu de l’endurance, mais en l’escalade, vu qu’il n’existe pas vraiment de système de collecte des données résultant de l’activité du grimpeur, point de vide. 
+
+
+      Il n’y a pas si longtemps, les meilleurs grimpeurs français utilisaient une mesure qui pourra en surprendre certains avec le comptage pur et simple du nombre de mouvements de main réalisés dans une séance \[*]. Quel que soit le type de travail **on se basait ainsi sur un élément quantifiable : le nombre de « mouv »** engagés  par le haut du corps, avec une notion d’intensité des dits mouvements, quand même, type RPE de Foster. Je vous laisse imaginer un carnet d’entraînement de coureur où ne seraient référencés que le nombre de foulées … 
+
+
 
 
       Pour ceux qui l’ignorent, le niveau de performance en escalade est relatif à la voie ou au bloc que vous avez été capable de réaliser (atteindre le sommet). Les cotations, sujet on ne peut plus discuté au sein de la communauté, sont proposées par les ouvreurs ou le premier grimpeur qui réussit à aller au sommet. Les suivants confirmeront ou pas la proposition de cotation.  En prolongeant le rapprochement avec la CAP, point de tergiversation quant à votre chrono sur un 10km plat. Si vous faites 50’ ou 35’, chacun saura situer votre niveau.  
@@ -77,7 +85,11 @@ blocks:
       Un grimpeur qui annonce 7a à vue, donnera de solides indications sur son niveau, mais d’avantage comme un potentiel que référence absolue. Un peu comme une VMA, qui peut laisser espérer tel ou tel chrono sur une distance donnée, mais qui ne garantit rien. 
 
 
-      La course, il faut la faire ! 
+
+
+      La course, il faut la faire ! Le relais, il faut le cliper ! 
+
+
 
 
       Ce petit préambule étant fait, voici comment j’utilise Nöliö, après 4 mois de paramétrages et d’adaptations, bien conscient de n’exploiter que très peu la puissance de l’outil !
@@ -117,11 +129,7 @@ blocks:
       **En escalade, il y a deux phases de compétition dans l’année** : automne et hiver consacré au bloc qui demande beaucoup de force, de qualité de coordination, de l’explosivité pour un effort bref d’environ 4 à 8 mouvements. 
 
 
-
-
       Le printemps et l’été sont dédiés à la difficulté où le grimpeur doit essayer d’atteindre le sommet d’une voie de 12 à 15m : ici la lecture de la voie et la méthode choisie par le grimpeur sont centrales ainsi que sa capacité à économiser ses fléchisseurs (doigts et poignets). L’affectif est aussi très important car la peur de la chute peut vraiment être un facteur très limitant. 
-
-
 
 
       Je n’évoquerai pas la vitesse, non travaillée réellement par mon groupe, n’ayant pas l’outil de travail aux normes : mur de 15 mètres avec enrouleur rapide. 
@@ -135,14 +143,12 @@ blocks:
       On peut donc travailler sans compétition de septembre à fin novembre. Les 2 premières échéances  sont placées début décembre et début janvier pour tous les membres du groupe. 
 
 
-
-
       Je dispose donc de 3 mois de travail, une compétition, 3 semaines, une compétition. 
 
 
+
+
       Sur ces douze semaines, concernant la préparation physique, nous faisons d’abord un cycle d’endurance de force (5 semaines) puis un cycle de force (3 semaines), suivi d’un cycle d’explosivité (2 semaines) puis une phase d’affutage (2 semaines). 
-
-
 
 
       Je n’entre pas d’avantage dans les détails de ce programme, discutable en tous points, mais qui a largement vu progresser les grimpeurs en force max (charge max, vitesse faible)  mais aussi en vitesse-force (charge faible 30-40%, vitesse élevée). 
@@ -161,8 +167,6 @@ blocks:
       **L’approche est prophylactique : se renforcer pour ne pas se blesser et rendre possible les progrès sur le long terme.** 
 
 
-
-
       Beaucoup de répétitions et de faibles charges sont de vrais garde-fous pour éviter les blessures en apprenant à maîtriser des trajets moteurs propres, les verrouillages nécessaires pour protéger une articulation, savoir détecter une dégradation gestuelle pour arrêter sa série. 
 
 
@@ -172,8 +176,6 @@ blocks:
 
 
       Nous verrons un peu plus loin dans l’article la place faite au renforcement musculaire, notamment avec des exemples de séance type et l’utilisation des métriques dans Nöliö. 
-
-
 
 
       **La plateforme permet donc d’abord un travail par période grâce à son calendrier à visualisation hebdo/mois/trimestre/année**. 
@@ -228,16 +230,16 @@ blocks:
       blank: false
     background: false
     text: >-
-      Ces deux premiers retours sont précieux car, bien qu’ils soient basés que
-      sur les perceptions de l’athlète, ils permettent un visionnage très rapide
-      de son état général en fin de séance, de constater un décalage avec
+      Ces deux premiers **retours sont précieux** car, bien qu’ils soient basés
+      que sur les perceptions de l’athlète, ils permettent un visionnage très
+      rapide de son état général en fin de séance, de constater un décalage avec
       l’intensité d’effort ressentie que j’avais prévue en amont.
 
 
-      Par ailleurs je demande expressément aux grimpeurs de renseigner tout ce qu’ils ont vraiment fait dans la séance : quel atelier ?, quelle charge ?, combien de voies ?, quel niveau ?, combien de blocs ?, combien d’essais ? combien de récup ? 
+      Par ailleurs **je demande expressément aux grimpeurs de renseigner tout ce qu’ils ont vraiment fait dans la séance** : quel atelier ?, quelle charge ?, combien de voies ?, quel niveau ?, combien de blocs ?, combien d’essais ? combien de récup ? 
 
 
-      Même si je rédige la séance en amont il est très important qu’ils puissent me donner des infos sur ce qu’ils ont vécu réellement. Déjà, parce qu’il n’est pas rare que la séance soit modifiée ou adaptée, mais aussi et surtout parce que ce retour écrit est à mes yeux fondamental dans le processus d’entraînement.
+      Même si je rédige la séance en amont il est très important qu’ils puissent me donner des infos sur ce qu’ils ont vécu réellement. Déjà, parce qu’il n’est pas rare que la séance soit modifiée ou adaptée, mais aussi et surtout parce que **ce retour écrit est à mes yeux fondamental dans le processus d’entraînement**.
   - type: figure
     figure:
       linear: false
@@ -255,26 +257,25 @@ blocks:
       blank: false
     background: false
     text: >-
-      En effet, tenir un carnet de ce que l’on fait à l’entraînement est le
+      **En effet, tenir un carnet de ce que l’on fait à l’entraînement est le
       point d’entrée dans une activité mesurée, quantifiée et qui devient donc
-      régulable en fonction de ses effets. C’est aussi une trace, une mémoire de
-      ce qui a été réellement fait sur le terrain. 
+      régulable en fonction de ses effets**. C’est aussi une trace, une mémoire
+      de ce qui a été réellement fait sur le terrain. 
+
+
 
 
       Ensuite, ce passage à l’écrit implique l’athlète dans un processus de dévolution : ce projet doit absolument devenir le sien s’il veut progresser et donc performer. Un athlète qui consomme et applique les recettes d’un coach, dans une telle activité où la lecture du milieu et la prise de décision sont centrales, me semble être un robot téléguidé incapable de se réorganiser dans la difficulté.
 
 
-      Discussion engagée suite à une séance de renforcement sur un tirage poulie haute triceps. Cela permet de valider ou pas une modification de charge et une posture modifiée. 
+
+
+      **C’est peut-être un biais lié à mon activité d’enseignant, mais je l’assume. Je vise une pratique éclairée qui mène à la connaissance de contenus scientifiques vulgarisés et à une vraie autonomie future de l’athlète**. Je ne suis pas prestataire d’une méthode magique et secrète dont l’enchantement se fanera avec la fin du cursus. 
 
 
 
 
-      C’est peut-être un biais lié à mon activité d’enseignant, mais je l’assume. Je vise une pratique éclairée qui mène à la connaissance de contenus scientifiques vulgarisés et à une vraie autonomie future de l’athlète. Je ne suis pas prestataire d’une méthode magique et secrète dont l’enchantement se fanera avec la fin du cursus. 
-
-
-
-
-      Pour finir, rédiger un retour sur sa séance, c’est aussi permettre une analyse plus fine par le coach hors de l’effervescence d’une séance (feedback différé \[*] ). Certains athlètes sont effacés à l’entraînement malgré un engagement physique total. Même sur un petit groupe de 10 éléments, on ne peut pas tout superviser au cours d’une séquence de travail et je trouve qu’il est précieux de pouvoir analyser la production et les retours a postériori. 
+      Pour finir, rédiger un retour sur sa séance, c’est aussi permettre une analyse plus fine par le coach hors de l’effervescence d’une séance (feedback différé \[*] ). Certains athlètes sont effacés à l’entraînement malgré un engagement physique total. Même sur un petit groupe de 10 éléments, on ne peut pas tout superviser au cours d’une séquence de travail et je trouve qu’i**l est précieux de pouvoir analyser la production et les retours a postériori**. 
 
 
 
@@ -369,7 +370,7 @@ blocks:
     align: left
     grid: small
     text: >-
-      J’ai donc créé une catégorie Musculation avec des références liées aux
+      J’ai donc créé une catégorie **Musculation** avec des références liées aux
       différents patterns travaillés. J’ai actuellement une trentaine de
       métriques (tableau ci-dessus) : certaines sont des classiques en
       renforcement musculaire, comme le développé couché ou le squat. D’autres
@@ -378,22 +379,27 @@ blocks:
       à 90° par exemple). 
 
 
-      Une dernière catégorie de métriques que je rangerai dans le tiroir « ratios de force \[*]  », notamment la distance bi-acromiale qui donne en centimètres l’écart entre les deux acromions et utilisée pour le placement des mains sur certains exercices avec un écartement normé, dit anatomique (développé coucher, tractions, tirage clavicules). Cela permet de comparer de façon standardisée certaines valeurs, j’y reviendrai un peu plus loin. 
 
 
       La plupart des valeurs sont renseignées en kilogrammes, mais certaines sont en exprimées en durée ou en nombre de répétitions max. 
 
 
-      Les métriques en kg correspondent au 1RM théorique (une seule répétition maximale). Elles ont été calculées au fur et à mesure des cycles de travail grâce à des tables de conversion qui permettent de déduire, sur la base d’une charge et un nombre de répétitions sur une série réussie, sans dégradation de la qualité du trajet moteur, la capacité de l’athlète à faire théoriquement une répétition maximale. 
+      Les métriques en kg correspondent au **1RM théorique** (une seule répétition maximale). Elles ont été calculées au fur et à mesure des cycles de travail grâce à des tables de conversion qui permettent de déduire, sur la base d’une charge et un nombre de répétitions sur une série réussie, sans dégradation de la qualité du trajet moteur, la capacité de l’athlète à faire théoriquement une répétition maximale. 
 
 
-      Cette valeur théorique permet une programmation au demi kg près pour chacun des grimpeurs. Dès la fin du long cycle d’endurance de force, très généraliste et assez peu individualisé, j’ai pu faire des estimations des 1RM théoriques et prévoir des séances à la carte pour lesquelles les charges sont calculées automatiquement par la plateforme. 
+
+
+      **Cette valeur théorique permet une programmation au demi kg près pour chacun des grimpeurs.** Dès la fin du long cycle d’endurance de force, très généraliste et assez peu individualisé, j’ai pu faire des estimations des 1RM théoriques et prévoir des séances à la carte pour lesquelles les charges sont calculées automatiquement par la plateforme. 
+
+
 
 
       Par contre cela implique un suivi accru, car étant avec un groupe jeune qui débute en renforcement musculaire,  leurs progrès sont rapides et il faut donc très régulièrement mettre à jour ces valeurs, sinon les charges sont sous évaluées. 
 
 
-      Par ailleurs, il faudra réaliser un vrai travail de formation quant à l’utilisation de l’application mobile auprès des athlètes pour qu’ils puissent faire ces mises à jour seuls. Ils doivent également bien maîtriser l’utilisation des tables de conversion \[*] pas toujours très simples à décoder surtout quand les valeurs sont faibles.
+
+
+      Par ailleurs, **il faudra réaliser un vrai travail de formation quant à l’utilisation de l’application mobile** auprès des athlètes pour qu’ils puissent faire ces mises à jour seuls. Ils doivent également bien maîtriser l’utilisation des tables de conversion \[*] pas toujours très simples à décoder surtout quand les valeurs sont faibles.
     background: false
     cta:
       blank: false
@@ -422,42 +428,35 @@ blocks:
     align: left
     grid: small
     text: >-
-      Le paramétrage, c’est aussi prévoir en amont vos séances. Sur ce point,
-      n’utilisant pas la séance structurée (à envoyer vers une montre) le profit
-      est loin d’être à la hauteur ce que propose réellement Nölïo, mais cela
-      permet de gagner du temps dans la planification. 
-
-
-      Selon les séances, je rentre plus ou moins dans les détails à propos ce ce qu’il y a à faire. Disons que plus je recherche l’autonomie de l’athlète dans la séance, plus je détaille intégralement le corps de séance. L’inconvénient c’est qu’ils ont leur téléphone tout le temps à côté d’eux. Je reste un prof, et ça me contrarie un peu de voir mes élèves avec un téléphone sorti sur un temps de pratique. 
+      **Le paramétrage, c’est aussi prévoir en amont vos séances**. Sur ce
+      point, n’utilisant pas la séance structurée (à envoyer vers une montre) le
+      profit est loin d’être à la hauteur ce que propose réellement Nölïo, mais
+      cela permet de gagner du temps dans la planification. 
 
 
 
 
-      L’équipe de Nöliö travaille actuellement au développement d’un module consacré à la musculation. Ce sera sans doute un grand progrès sur ce point et j’espère que nous pourrons paramétrer le nombre de répétitions, de séries et les temps de récupération (qui permettra de définir un tonnage). 
+      Selon les séances, je rentre plus ou moins dans les détails à propos ce ce qu’il y a à faire. 
 
 
-      J’espère également que nous pourrons paramétrer la cadence de travail sur le mode 1.0.1.0, où la première valeur correspond à la phase excentrique, la 2ème le temps passé à l’arrêt éventuel entre les 2 phases, la 3ème valeur correspond à la phase concentrique et la 4ème le temps d’arrêt éventuel entre les phases. 
+      Disons que plus je recherche l’autonomie de l’athlète dans la séance, plus je détaille intégralement le corps de séance. 
 
 
-      Cela permettrait d’avoir une idée du temps sous tension  (TST\[*]) appliqué au groupe musculaire. 
-
-
-
-
-      Et si j’ai un souhait, vu la capacité qu’a eue jusque ici la team Nöliö à intégrer des outils numériques en provenance d’autres marques, c’est que nous puissions un jour faire communiquer la plateforme avec du matériel VBT\[*] (Velocity Based Training) type Beast Sensor, Vitruve Fit ou Gym Aware pour ne citer qu’eux. 
+      L’inconvénient c’est qu’ils ont leur téléphone tout le temps à côté d’eux. Je reste un prof, et ça me contrarie un peu de voir mes élèves avec un téléphone sorti sur un temps de pratique. 
 
 
 
 
-      Cette approche basée sur la vitesse de déplacement de la barre ou du corps, permet un retour instantané sur la puissance développée à chaque des répétitions (capteurs) et donc la détection facilitée de la dégradation du geste ou d’un passage sous le seuil de perte de vitesse (déterminé par le profil charge/vitesse). 
+      *Et si j’ai un souhait, vu la capacité qu’a eue jusque ici la team Nöliö à intégrer des outils numériques en provenance d’autres marques, c’est que nous puissions un jour faire communiquer la plateforme avec du matériel VBT\[*] (Velocity Based Training) type Beast Sensor, Vitruve Fit ou Gym Aware pour ne citer qu’eux.* 
 
 
-      On arrêtera plus facilement une série une ou deux rép’ avant la fin prévue, parce qu’il ne sert à rien de faire un travail quantitatif quand on vise le développement de certaines qualités (vitesse/force, puissance, explosivité). 
+      *Cette approche basée sur la vitesse de déplacement de la barre ou du corps, permet un retour instantané sur la puissance développée à chaque des répétitions (capteurs) et donc la détection facilitée de la dégradation du geste ou d’un passage sous le seuil de perte de vitesse (déterminé par le profil charge/vitesse).* 
 
 
+      *On arrêtera plus facilement une série une ou deux rép’ avant la fin prévue, parce qu’il ne sert à rien de faire un travail quantitatif quand on vise le développement de certaines qualités (vitesse/force, puissance, explosivité).* 
 
 
-      Cela permet aussi de composer avec la fatigue ou la surcompensation de l’athlète car on peut en cours de séance réévaluer une charge très facilement et permettre un ciblage bien plus fin que l’utilisation du % de 1RM . En effet, les variations du niveau de la force maximale peuvent varier de plus ou moins 15% selon l’état de fatigue ou forme du sujet. Ce monitoring instantané permet de s’adapter et de réguler au coeur de la séance, plutôt de s’échiner à finir telle ou telle série aux forceps, ou de se limiter sur un autre exercice.
+      *Cela permet aussi de composer avec la fatigue ou la surcompensation de l’athlète car on peut en cours de séance réévaluer une charge très facilement et permettre un ciblage bien plus fin que l’utilisation du % de 1RM . En effet, les variations du niveau de la force maximale peuvent varier de plus ou moins 15% selon l’état de fatigue ou forme du sujet. Ce monitoring instantané permet de s’adapter et de réguler au coeur de la séance, plutôt de s’échiner à finir telle ou telle série aux forceps, ou de se limiter sur un autre exercice.*
     background: false
     cta:
       blank: false
