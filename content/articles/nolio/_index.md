@@ -362,26 +362,25 @@ blocks:
     grid: medium
     offset: center
     background: true
-  - type: paragraph
-    grid: small
-    offset: center
+  - notes:
+      - text: >
+          [*]Charle Poliquin 1999, 2006 adapté par Olivier Bolliet, Le Maillon
+          Faible™, webinaire, 2021
+
+          [*]Formule de Prévost (2013) in La Bible de la Préparation Physique p 292 D. Reiss et P. Prévost
     align: left
-    cta:
-      blank: false
-    background: false
+    grid: small
     text: >-
       J’ai donc créé une catégorie Musculation avec des références liées aux
       différents patterns travaillés. J’ai actuellement une trentaine de
-      métriques (tableau ci-dessous) : certaines sont des classiques en
+      métriques (tableau ci-dessus) : certaines sont des classiques en
       renforcement musculaire, comme le développé couché ou le squat. D’autres
       sont très orientées escalade comme le Pistol Squat (squat complet sur une
       jambe à poids de corps) ou encore les isométries maximales (blocage biceps
       à 90° par exemple). 
 
 
-      Une dernière catégorie de métriques que je rangerai dans le tiroir « ratios de force  », notamment la distance bi-acromiale qui donne en centimètres l’écart entre les deux acromions et utilisée pour le placement des mains sur certains exercices avec un écartement normé, dit anatomique (développé coucher, tractions, tirage clavicules). Cela permet de comparer de façon standardisée certaines valeurs, j’y reviendrai un peu plus loin. 
-
-
+      Une dernière catégorie de métriques que je rangerai dans le tiroir « ratios de force \[*]  », notamment la distance bi-acromiale qui donne en centimètres l’écart entre les deux acromions et utilisée pour le placement des mains sur certains exercices avec un écartement normé, dit anatomique (développé coucher, tractions, tirage clavicules). Cela permet de comparer de façon standardisée certaines valeurs, j’y reviendrai un peu plus loin. 
 
 
       La plupart des valeurs sont renseignées en kilogrammes, mais certaines sont en exprimées en durée ou en nombre de répétitions max. 
@@ -390,18 +389,17 @@ blocks:
       Les métriques en kg correspondent au 1RM théorique (une seule répétition maximale). Elles ont été calculées au fur et à mesure des cycles de travail grâce à des tables de conversion qui permettent de déduire, sur la base d’une charge et un nombre de répétitions sur une série réussie, sans dégradation de la qualité du trajet moteur, la capacité de l’athlète à faire théoriquement une répétition maximale. 
 
 
-
-
       Cette valeur théorique permet une programmation au demi kg près pour chacun des grimpeurs. Dès la fin du long cycle d’endurance de force, très généraliste et assez peu individualisé, j’ai pu faire des estimations des 1RM théoriques et prévoir des séances à la carte pour lesquelles les charges sont calculées automatiquement par la plateforme. 
-
-
 
 
       Par contre cela implique un suivi accru, car étant avec un groupe jeune qui débute en renforcement musculaire,  leurs progrès sont rapides et il faut donc très régulièrement mettre à jour ces valeurs, sinon les charges sont sous évaluées. 
 
 
-
-
-      Par ailleurs, il faudra réaliser un vrai travail de formation quant à l’utilisation de l’application mobile auprès des athlètes pour qu’ils puissent faire ces mises à jour seuls. Ils doivent également bien maîtriser l’utilisation des tables de conversion pas toujours très simples à décoder surtout quand les valeurs sont faibles.
+      Par ailleurs, il faudra réaliser un vrai travail de formation quant à l’utilisation de l’application mobile auprès des athlètes pour qu’ils puissent faire ces mises à jour seuls. Ils doivent également bien maîtriser l’utilisation des tables de conversion \[*] pas toujours très simples à décoder surtout quand les valeurs sont faibles.
+    background: false
+    cta:
+      blank: false
+    offset: center
     title: Renforcement musculaire
+    type: paragraph
 ---
