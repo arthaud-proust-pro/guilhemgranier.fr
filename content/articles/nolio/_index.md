@@ -49,7 +49,7 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/logo-seection.jpg
+      src: /images/uploads/capture-d-e-cran-2024-04-28-a-17.48.19.jpg
     grid: medium
     offset: center
     background: true
