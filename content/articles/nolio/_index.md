@@ -352,4 +352,21 @@ blocks:
 
       Mes lectures et les retours d’entraîneurs autour de moi sont très contrastés et montrent surtout que les mesures régulières de la VFC peuvent vraiment perturber certains athlètes, voir les stresser fortement. Je tenterai peut-être avec certains profils l’expérience, mais avec une double prise quotidienne (couché/debout) ce qui implique un athlète investi et un temps de traitement des données assez long pour moi.
     title: Paramétrer Nöliö
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/capture-d-e-cran-2024-04-28-a-17.44.01.jpg
+      legend: "Quelques références utilisées en musculation : charge maximale
+        théorique (1RM) sur le mouvement concentrique"
+    grid: medium
+    offset: center
+    background: true
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
 ---
