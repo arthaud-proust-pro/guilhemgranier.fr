@@ -468,15 +468,6 @@ blocks:
     figure:
       linear: false
       screenshot: false
-      src: /images/uploads/capture-d-e-cran-2024-04-28-a-18.31.58.jpg
-      legend: Exemples de séances pré-paramétrées
-    grid: medium
-    offset: center
-    background: true
-  - type: figure
-    figure:
-      linear: false
-      screenshot: false
       src: /images/uploads/capture-d-e-cran-2024-04-28-a-18.31.12.jpg
       legend: Exemples de séances pré-paramétrées
     grid: medium
