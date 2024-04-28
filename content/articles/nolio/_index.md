@@ -249,4 +249,39 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    text: >-
+      En effet, tenir un carnet de ce que l’on fait à l’entraînement est le
+      point d’entrée dans une activité mesurée, quantifiée et qui devient donc
+      régulable en fonction de ses effets. C’est aussi une trace, une mémoire de
+      ce qui a été réellement fait sur le terrain. 
+
+
+      Ensuite, ce passage à l’écrit implique l’athlète dans un processus de dévolution : ce projet doit absolument devenir le sien s’il veut progresser et donc performer. Un athlète qui consomme et applique les recettes d’un coach, dans une telle activité où la lecture du milieu et la prise de décision sont centrales, me semble être un robot téléguidé incapable de se réorganiser dans la difficulté.
+
+
+      Discussion engagée suite à une séance de renforcement sur un tirage poulie haute triceps. Cela permet de valider ou pas une modification de charge et une posture modifiée. 
+
+      			
+
+      C’est peut-être un biais lié à mon activité d’enseignant, mais je l’assume. Je vise une pratique éclairée qui mène à la connaissance de contenus scientifiques vulgarisés et à une vraie autonomie future de l’athlète. Je ne suis pas prestataire d’une méthode magique et secrète dont l’enchantement se fanera avec la fin du cursus. 
+
+
+
+
+      Pour finir, rédiger un retour sur sa séance, c’est aussi permettre une analyse plus fine par le coach hors de l’effervescence d’une séance (feedback différé \[*] ). Certains athlètes sont effacés à l’entraînement malgré un engagement physique total. Même sur un petit groupe de 10 éléments, on ne peut pas tout superviser au cours d’une séquence de travail et je trouve qu’il est précieux de pouvoir analyser la production et les retours a postériori. 
+
+
+
+
+      Le système de messagerie intégré à la fenêtre de la séance réalisée est bénédiction car cela me permet dans un premier temps d’analyser le retour du grimpeur et de lui faire un retour écrit. Parfois cela déclenche une discussion.
+    notes:
+      - text: "[*](Smits et al., 2008) in Caractéristiques et fonctions des feed-back
+          dans les apprentissages Christelle Bosc-Miné, 2014"
 ---
