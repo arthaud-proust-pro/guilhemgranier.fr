@@ -418,29 +418,13 @@ blocks:
       cela permet de gagner du temps dans la planification. 
 
 
-
-
       Selon les séances, je rentre plus ou moins dans les détails à propos ce ce qu’il y a à faire. 
 
 
       Disons que plus je recherche l’autonomie de l’athlète dans la séance, plus je détaille intégralement le corps de séance. 
 
 
-      L’inconvénient c’est qu’ils ont leur téléphone tout le temps à côté d’eux. Je reste un prof, et ça me contrarie un peu de voir mes élèves avec un téléphone sorti sur un temps de pratique. 
-
-
-
-
-      *Et si j’ai un souhait, vu la capacité qu’a eue jusque ici la team Nöliö à intégrer des outils numériques en provenance d’autres marques, c’est que nous puissions un jour faire communiquer la plateforme avec du matériel VBT\[*] (Velocity Based Training) type Beast Sensor, Vitruve Fit ou Gym Aware pour ne citer qu’eux.* 
-
-
-      *Cette approche basée sur la vitesse de déplacement de la barre ou du corps, permet un retour instantané sur la puissance développée à chaque des répétitions (capteurs) et donc la détection facilitée de la dégradation du geste ou d’un passage sous le seuil de perte de vitesse (déterminé par le profil charge/vitesse).* 
-
-
-      *On arrêtera plus facilement une série une ou deux rép’ avant la fin prévue, parce qu’il ne sert à rien de faire un travail quantitatif quand on vise le développement de certaines qualités (vitesse/force, puissance, explosivité).* 
-
-
-      *Cela permet aussi de composer avec la fatigue ou la surcompensation de l’athlète car on peut en cours de séance réévaluer une charge très facilement et permettre un ciblage bien plus fin que l’utilisation du % de 1RM . En effet, les variations du niveau de la force maximale peuvent varier de plus ou moins 15% selon l’état de fatigue ou forme du sujet. Ce monitoring instantané permet de s’adapter et de réguler au coeur de la séance, plutôt de s’échiner à finir telle ou telle série aux forceps, ou de se limiter sur un autre exercice.*
+      *(à suivre)*
     background: false
     cta:
       blank: false
