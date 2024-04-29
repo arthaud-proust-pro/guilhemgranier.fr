@@ -321,10 +321,7 @@ blocks:
       Par exemple, quand on axe la séance sur un grand volume de travail (endurance de force = conti dans le jargon grimpeur) en doublant ou triplant les ascensions consécutives sur un niveau vraiment facile pour soi (-2 ou -3). 
 
 
-      J’ai bien essayé de bricoler une échelle de valeur intégrable en établissant des correspondances avec les cotations, mais les grimpeurs se seraient arrachés les cheveux avec la manipulation de cette énième grille. Il serait très confortable que Nöliö puisse intégrer un jour cette échelle de cotations pour gagner du temps dans l’individualisation des charges de travail sur une même séance. 
-
-
-      Dans la catégorie Santé, je n’ai gardé que le poids et le sommeil global (non mesuré par un outil) comme références. Mes élèves ne sont pas équipés pour une mesure qualitative de leur sommeil. Quant au taux de masse grasse, il faudrait que je fasse moi même les mesures (méthode de Perronet ou plis cutanés), pour avoir des résultats à peine sérieux et je trouve cela pour le moment trop intrusif pour une pertinence peu évidente. 
+      **Dans la catégorie Santé, je n’ai gardé que le poids et le sommeil global** (non mesuré par un outil) comme références. Mes élèves ne sont pas équipés pour une mesure qualitative de leur sommeil. Quant au taux de masse grasse, il faudrait que je fasse moi même les mesures (méthode de Perronet ou plis cutanés), pour avoir des résultats à peine sérieux et je trouve cela pour le moment trop intrusif pour une pertinence peu évidente. 
 
 
       Si je garde le poids de l’athlète, c’est que j’en ai besoin en musculation (tractions, dips). 
@@ -333,7 +330,7 @@ blocks:
       Quant au sommeil, j’ai remarqué que certains grimpeurs répertoriaient leur sommeil effectif et je leur ai laissé la main. 
 
 
-      Dans la catégorie Forme, je ne retiens rien, puisque ce sont des intégrations de matériel haut de gamme dont je ne dispose pas (Garmin, Polar, Incorpus). Pour information, j’expérimente la VFC - variabilité de la fréquence cardiaque, HRV en anglais - sur moi même (Haptools et aujourd’hui la solution proposée par Nöliö) et j’avoue que je suis assez frileux à cette heure à l’idée de la démocratiser à tout le groupe. 
+      **Dans la catégorie Forme, je ne retiens rien**, puisque ce sont des intégrations de matériel haut de gamme dont je ne dispose pas (Garmin, Polar, Incorpus). Pour information, j’expérimente la VFC - variabilité de la fréquence cardiaque, HRV en anglais - sur moi même (Haptools et aujourd’hui la solution proposée par Nöliö) et j’avoue que je suis assez frileux à cette heure à l’idée de la démocratiser à tout le groupe. 
 
 
       Mes lectures et les retours d’entraîneurs autour de moi sont très contrastés et montrent surtout que les mesures régulières de la VFC peuvent vraiment perturber certains athlètes, voir les stresser fortement. Je tenterai peut-être avec certains profils l’expérience, mais avec une double prise quotidienne (couché/debout) ce qui implique un athlète investi et un temps de traitement des données assez long pour moi.
