@@ -503,4 +503,48 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - notes:
+      - text: in « Utiliser la charge d'entraînement pour mieux s’entrainer » Blog
+          Nöliö, Oct. 2021
+    align: left
+    grid: small
+    text: >-
+      Outil que j’apprécie beaucoup et qui permet d’évaluer la variété des
+      intensités requises par les séances que l’on propose. Avant d’avoir des
+      notions de physiologie, j’avais l’intuition qu’un seul stimulus sur un
+      organisme vivant ne pouvait que limiter l’importance des réponses du dit
+      organisme vivant. La théorie semble corroborer cette idée. 
+
+
+      En somme, faire la même chose, 3 fois par semaine, sur une période prolongée a de fortes chances de conduire à une stagnation, une grande lassitude ou pire à une blessure. 
+
+
+
+
+      L’indice de monotonie (calcul statistique basé sur l’écart-type\[*]) est vraiment un repère très fiable quant à la répétition marquée de séances similaires en termes d’intensité et de durée. 
+
+
+      En escalade, la variété des situations est assez grande et on pourrait avoir l’impression, parce que l’on change tous les jours de lieu d’entraînement, de type de sollicitation (bloc, diff, circuits, agréés, musculation) qu’il n’est pas possible de glisser vers cet écueil. 
+
+
+
+
+      Pourtant, parce que la mécanique des préhensions reste la même, les patterns de tirage des membres sup ou de poussée du membre inf. aussi, il y a un vrai risque de générer une monotonie prolongée qui peut conduire l’athlète à un surmenage, une fatigue mentale ou une blessure. 
+
+
+
+
+      Une fois par semaine, je vérifie athlète par athlète que leur indice de monotonie navigue entre 0,8 et 1,8. Je sais que ma programmation initiale ne génère pas d’indice supérieur à 2 et si le grimpeur rentre dans la zone rouge c’est simplement lié à des activités non planifiées.
+
+
+      Le grand classique : faire du bloc pendant 4h avec les copains, le samedi et le dimanche. Grosses séances identiques en UA qui font dériver de façon importante l’indice. 
+
+
+      Quand cela arrive, je préviens rapidement qu’il faut lever le pied, et j’aménage le début de semaine pour éviter les redondances.
+    background: false
+    cta:
+      blank: false
+    offset: center
+    title: Indice de Monotonie
+    type: paragraph
 ---
