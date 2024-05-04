@@ -557,4 +557,17 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      legend: "Graphique où se croisent la charge (courbe violette), l’indice de
+        monotonie (point gris et la contrainte qui en découle (courbe orange).
+        Dès que l’indice de monotonie dépasse 1 il fait mathématiquement gonfler
+        la contrainte. Inversement, un indice de monotonie inférieur à 1 réduit
+        l’impact de la contrainte à un niveau inférieur à la charge. "
+      src: /images/uploads/capture-d-e-cran-2024-05-04-a-10.40.14.jpg
+    grid: medium
+    offset: center
+    background: true
 ---
