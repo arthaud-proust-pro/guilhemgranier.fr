@@ -440,4 +440,91 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    title: Dynamique des charges
+    text: >-
+      Nöliö est d’une grande utilité quant à l’impact que peut avoir sur
+      l’athlète une charge de travail planifiée ou réalisée. En effet, il
+      intègre de façon très efficace plusieurs formes de mesures de la charge
+      d’entraînement. 
+
+
+      J’ai personnellement fait le choix du modèle de Foster puisque les autres modélisations ne sont pas adaptées à l’escalade : Coggan, basée initialement sur la puissance (watts) et Trimp, axée sur la fréquence cardiaque, non utilisée de mon côté.
+
+
+      Comme déjà évoqué en introduction, l’activité du grimpeur n’est pour le moment pas « monitorée » et nous ne pouvons pas exploiter de données contrairement à d’autres sports. 
+
+
+
+
+      Le modèle de Foster, parce qu’il est tout à fait empirique, permet d’attribuer à chaque séance une charge de travail, mesurée en Unités Arbitraires (UA). 
+
+
+      La formule est assez simple : on fait le produit entre le temps de la séance (minutes) et son intensité (RPE). Le RPE est une valeur qui va de 1 à 10, du très facile à l’effort maximal. 
+
+
+
+
+      Mais il y a une vraie limite à ce modèle : car si pour un footing de 45’ à allure régulière et intensité moyenne (70% VMA par exemple > RPE 4), l’estimation semble aisée : 45x4 = 180 UA, c’est vraiment plus difficile de définir la charge sur une séance d’escalade. 
+
+
+
+
+      Si je prends l’exemple d’une séance de bloc d’une même durée (45’) avec 30 essais (un essai toutes les 1’30’’ en moyenne) dans des blocs de niveaux très différents et donc des intensités et des durées inégales, ponctuées de récupérations longues (+ de 2’) mais incomplètes, comment dois je m’y prendre pour faire mon calcul ? 
+
+
+
+
+      Faut-il ne tenir compte que du temps réel de grimpe ? Faut-il estimer pour chaque bloc l’intensité de l’effort ? Sachant qu’on est très souvent sur du niveau 10 (effort max) mais que ça ne dure que quelques secondes et qu’il y a des passages très techniques qui ne demandent que peu d’effort (travail de pieds et d’équilibre dans une dalle). 
+
+
+
+
+      Après moultes tentatives pour trouver la bonne formule j’ai décidé de ne garder que le temps passé à la pratique, hors échauffement, mais repos compris, et de définir le RPE en fonction de la difficulté globale de la séance. Donc une séance sur des voies ou des blocs à niveau max sera toujours sur des valeurs de 8, 9 ou 10, tandis qu’une séance de volume, finira avec un RPE à 6, 7 ou 8. Une séance de poutre rési longue à 5 ou 6 et une séance souplesse ou yoga à 3 ou 4. C’est le ressenti réel qui fera infléchir le RPE final à la hausse ou à la baisse dans la fourchette de valeurs de départ. 
+
+
+
+
+      Finalement, cela permet d’attribuer une valeur à la charge qui se révèle assez juste malgré l’approche très empirique et flottante selon les sensations du jour. 
+
+
+      Avec le temps je n’observe pas d’incohérences avérées et cela permet d’utiliser de façon plutôt juste les modélisations proposées par la plate-forme. 
+
+
+
+
+      Indice de monotonie : outil que j’apprécie beaucoup et qui permet d’évaluer la variété des intensités requises par les séances que l’on propose. Avant d’avoir des notions de physiologie, j’avais l’intuition qu’un seul stimulus sur un organisme vivant ne pouvait que limiter l’importance des réponses du dit organisme vivant. La théorie semble corroborer cette idée. 
+
+
+      En somme, faire la même chose, 3 fois par semaine, sur une période prolongée a de fortes chances de conduire à une stagnation, une grande lassitude ou pire à une blessure. 
+
+
+
+
+      L’indice de monotonie (calcul statistique basé sur l’écart-type ) est vraiment un repère très fiable quant à la répétition marquée de séances similaires en termes d’intensité et de durée. 
+
+
+      En escalade, la variété des situations est assez grande et on pourrait avoir l’impression, parce que l’on change tous les jours de lieu d’entraînement, de type de sollicitation (bloc, diff, circuits, agréés, musculation) qu’il n’est pas possible de glisser vers cet écueil. 
+
+
+
+
+      Pourtant, parce que la mécanique des préhensions reste la même, les patterns de tirage des membres sup ou de poussée du membre inf. aussi, il y a un vrai risque de générer une monotonie prolongée qui peut conduire l’athlète à un surmenage, une fatigue mentale ou une blessure. 
+
+
+
+
+      Une fois par semaine, je vérifie athlète par athlète que leur indice de monotonie navigue entre 0,8 et 1,8. Je sais que ma programmation initiale ne génère pas d’indice supérieur à 2 et si le grimpeur rentre dans la zone rouge c’est simplement lié à des activités non planifiées.
+
+
+      Le grand classique : faire du bloc pendant 4h avec les copains, le samedi et le dimanche. Grosses séances identiques en UA qui font dériver de façon importante l’indice. 
+
+
+      Quand cela arrive, je préviens rapidement qu’il faut lever le pied, et j’aménage le début de semaine pour éviter les redondances.
 ---
