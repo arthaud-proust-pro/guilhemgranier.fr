@@ -570,4 +570,29 @@ blocks:
     grid: medium
     offset: center
     background: true
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    title: La contrainte
+    text: >-
+      La contrainte est le produit de la charge (UA) par l’indice de monotonie.
+      Si ce dernier est autour de 2, cela va tout simplement doubler la
+      contrainte perçue par l’athlète. Si l’indice de monotonie n’est pas
+      maîtrisé et se prolonge dans le temps tout en maintenant un haut niveau de
+      charge, on fait rentrer l’athlète dans une zone à risques. 
+
+
+
+
+      La contrainte permet vraiment une lecture enrichie de l’indice de monotonie et de réfléchir à une programmation la plus variée possible de types de séances. 
+
+
+      Attention quand même, si votre athlète est « cramé » il risque de tout ressentir de façon négative, même les séances qui ne sont pas a priori très exigeantes. 
+
+
+      C’est encore plus révélateur de son état de surmenage.
 ---
