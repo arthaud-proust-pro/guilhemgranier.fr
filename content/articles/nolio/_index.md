@@ -28,7 +28,7 @@ blocks:
       blank: false
     background: false
     text: >-
-      Nöliö est une plateforme permettant la planification et le suivi
+      **Nöliö** est une plateforme permettant la planification et le suivi
       d’athlètes par un coach mais surtout l’intégration et l’analyse de données
       collectées via des appareils de mesure type cardiofréquencemètre, compteur
       et GPS, capteurs cadence et puissance, etc …
@@ -37,13 +37,20 @@ blocks:
       Les principaux utilisateurs sont issus du milieu de l’endurance quelle que soit sa forme : trail, cyclisme, triathlon, vtt, ski de fond, aviron, etc … 
 
 
-      Depuis septembre 2022 j’utilise Nöliö avec un groupe de 10 grimpeurs au sein d’une section sportive scolaire escalade au Lycée Montesquieu de Bordeaux. Le niveau est assez hétérogène entre les plus jeunes (classe de seconde) et les plus anciens (terminale) mais ils évoluent globalement entre le régional et le national (dans les deux disciplines que sont le bloc et la difficulté). 
+
+
+      **Depuis septembre 2022 j’utilise Nöliö avec un groupe de 10 grimpeurs au sein d’une section sportive scolaire escalade** au Lycée Montesquieu de Bordeaux. Le niveau est assez hétérogène entre les plus jeunes (classe de seconde) et les plus anciens (terminale) mais ils évoluent globalement entre le régional et le national (dans les deux disciplines que sont le bloc et la difficulté). 
 
 
       Ils s’entraînent de 3 à 6 fois par semaine, tantôt avec moi, tantôt avec un entraîneur de club (partenariat).
 
 
       J’ai d'avantage la partie préparation athlétique que la partie pure escalade.
+
+
+
+
+      Depuis 18 mois donc j’ai essayé d’exploiter au maximum les potentialités de la plateforme en essayant de l’adapter au mieux à une activité très typée force max, où la motricité est d’une rare complexité avec une composante technico-tactique essentielle.
     title: Préambule
   - type: figure
     figure:
