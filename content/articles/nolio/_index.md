@@ -205,7 +205,7 @@ blocks:
         groupe (c’est le cas dans notre exemple) ou individualisée. Le petit
         mousqueton signale que la séance comporte de l’escalade et pas seulement
         un travail physique (haltérophile)."
-    grid: medium
+    grid: large
     offset: center
     background: true
   - type: paragraph
