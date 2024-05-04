@@ -57,7 +57,7 @@ blocks:
       linear: false
       screenshot: false
       src: /images/uploads/capture-d-e-cran-2024-04-28-a-17.48.19.jpg
-    grid: medium
+    grid: small
     offset: center
     background: true
   - notes:
