@@ -424,7 +424,7 @@ blocks:
       Disons que plus je recherche l’autonomie de l’athlète dans la séance, plus je détaille intégralement le corps de séance. 
 
 
-      *(à suivre)*
+      Quoi qu'il en soit sur ce point, l'intérêt majeur se situe ici du côté du coach car j'ai pu mettre au point des dizaines de séances
     background: false
     cta:
       blank: false
