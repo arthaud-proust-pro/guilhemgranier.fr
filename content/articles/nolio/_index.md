@@ -500,6 +500,7 @@ blocks:
       linear: false
       screenshot: false
       src: /images/uploads/capture-d-e-cran-2024-05-04-a-10.14.40.jpg
+      legend: Echelle des intensités RPE (Rating of Perceived Exertion)
     grid: medium
     offset: center
     background: true
