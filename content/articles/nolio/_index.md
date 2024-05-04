@@ -401,14 +401,7 @@ blocks:
     grid: medium
     offset: center
     background: true
-  - notes:
-      - text: >-
-          Muscle time under tension during resistance exercise stimulates
-          differential muscle protein sub-fractional synthetic responses in men
-
-          NA. Burd & al  (2012) 
-      - text: Velocity loss as an indicator of neuromuscular fatigue during resistance
-          training", Sanchez-Medina & Gonzalez-Badillo, 2011
+  - notes: []
     align: left
     grid: small
     text: >-
@@ -424,7 +417,13 @@ blocks:
       Disons que plus je recherche l’autonomie de l’athlète dans la séance, plus je détaille intégralement le corps de séance. 
 
 
-      Quoi qu'il en soit sur ce point, l'intérêt majeur se situe ici du côté du coach car j'ai pu mettre au point des dizaines de séances
+      Quoi qu'il en soit sur ce point, l'intérêt majeur se situe ici du côté du coach, car j'ai pu mettre au point des dizaines de séances, par thème de travail (endurance de force, mobilité, explosivité, etc ...) et que c'est un vrai gain de temps quand je fais une planification pour un athlète. 
+
+
+      Au cœur de ces séances types : toutes les infos sur ce qu'il y a a faire, avec schémas ou vidéo à l'appui. 
+
+
+      C'est une vraie feuille de route pour le grimpeur pour réaliser sa séance en autonomie, même si je préférerais toujours un coaching en présentiel !
     background: false
     cta:
       blank: false
