@@ -349,7 +349,7 @@ blocks:
       src: /images/uploads/capture-d-e-cran-2024-04-28-a-17.44.01.jpg
       legend: "Quelques références utilisées en musculation : charge maximale
         théorique (1RM) sur le mouvement concentrique"
-    grid: medium
+    grid: large
     offset: center
     background: true
   - notes:
@@ -443,7 +443,7 @@ blocks:
       screenshot: false
       src: /images/uploads/capture-d-e-cran-2024-04-28-a-19.18.51.jpg
       legend: Exemples de séances pré-paramétrées
-    grid: medium
+    grid: small
     offset: center
     background: true
   - type: paragraph
@@ -507,7 +507,7 @@ blocks:
       screenshot: false
       src: /images/uploads/capture-d-e-cran-2024-05-04-a-10.14.40.jpg
       legend: Echelle des intensités RPE (Rating of Perceived Exertion)
-    grid: medium
+    grid: small
     offset: center
     background: true
   - notes:
@@ -554,7 +554,7 @@ blocks:
       screenshot: false
       src: /images/uploads/capture-d-e-cran-2024-05-04-a-10.38.14.jpg
       legend: Fenêtre Nöliö indiquant la charge hedbo selon Foster
-    grid: medium
+    grid: small
     offset: center
     background: true
   - type: figure
@@ -567,7 +567,7 @@ blocks:
         la contrainte. Inversement, un indice de monotonie inférieur à 1 réduit
         l’impact de la contrainte à un niveau inférieur à la charge. "
       src: /images/uploads/capture-d-e-cran-2024-05-04-a-10.40.14.jpg
-    grid: medium
+    grid: large
     offset: center
     background: true
   - type: paragraph
