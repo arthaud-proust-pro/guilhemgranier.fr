@@ -159,12 +159,6 @@ blocks:
 
       C’est donc aux autres, et il y en a beaucoup, que ce billet s’adresse. À ceux qui ont une autre approche, sans doute liée à un héritage provenant d’un autre sport où s’entraîner de façon rationnelle est commun.
     title: Alors pourquoi si peu de choses visibles en escalade ?
-  - type: figure
-    grid: medium
-    offset: center
-    background: false
-    figure:
-      src: ""
   - notes:
       - text: Véronique Billat, est une physiologiste française, qui a consacré son
           travail à établir le lien entre la science et l’empirisme de
