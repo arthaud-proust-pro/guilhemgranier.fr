@@ -254,7 +254,7 @@ blocks:
       screenshot: false
       src: /images/uploads/retours-noilo.jpg
       legend: Fenêtre de retours post séance de l'athlète
-    grid: medium
+    grid: large
     offset: center
     background: true
   - type: paragraph
