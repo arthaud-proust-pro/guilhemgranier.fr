@@ -1,5 +1,6 @@
 import { background } from '../../fields/background.js';
 import { figure } from '../../fields/figure.js';
+import { grid } from '../../fields/grid.js';
 import { heading } from '../../fields/heading.js';
 
 export const block_figure = {
@@ -13,11 +14,7 @@ export const block_figure = {
   fields: [
     heading, 
     figure, 
-    {
-      name: 'grid',
-      widget: 'hidden',
-      default: 'medium',
-    },
+    grid,
     {
       name: 'offset',
       widget: 'hidden',
