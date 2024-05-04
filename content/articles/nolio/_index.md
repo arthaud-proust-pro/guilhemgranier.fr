@@ -595,4 +595,63 @@ blocks:
 
 
       C’est encore plus révélateur de son état de surmenage.
+  - type: paragraph
+    grid: small
+    offset: center
+    align: left
+    cta:
+      blank: false
+    background: false
+    title: "L’axe pédagogique de Nöliö : apprendre à s’entraîner"
+    text: >-
+      C’est un peu la synthèse des points évoqués plus haut, mais il est évident
+      que pour un projet scolaire, l’axe apprentissage est essentiel. Et là,
+      Nöliö devient un allié de grande qualité pour accompagner les élèves
+      grimpeurs vers une forme d’autonomie dans leur préparation. 
+
+
+      Sans rentrer dans les détails, il faut savoir que beaucoup de grimpeurs n’ont pas de plan d’entraînement et se contentent d’un gros volume de pratique pour être en forme. Avec l’émergence des poutres, le travail isolé de la force à doigts a émergé, mais il reste allusif car non réellement intégré à un plan d’entraînement. 
+
+
+
+
+      Faire accéder ces élèves à la compréhension de ce que sont les facteurs de la performance en escalade me parait essentiel, car, malgré l’approche scientifique et rigoureuse qui peut paraître antinomique avec cette activité, il s’agit au contraire de sortir d’une monotonie qui consiste à faire le même type de séance à chaque fois.
+
+
+
+
+      S’entraîner est bien plus ludique quand on axe le travail sur des points précis, quand on varie au maximum les exercices, qu’on en mesure les effets, quand on accepte la fatigue passagère suite à un gros bloc car on sait qu’on va être fort pour la compétition à venir … 
+
+
+
+
+      Accéder à un bon niveau de connaissance quant à l’entraînement c’est aussi bien mieux se connaître et être capable de jouer sur des paramètres à la carte, en fonction de ses besoins et de ses objectifs. 
+
+
+
+
+      Très rapidement le travail en musculation fait émerger des déséquilibres dans les ratios de force des différents patterns de la motricité humaine. Chaque grimpeur mesure le travail à accomplir pour se rééquilibrer, d’abord pour ne pas se blesser, mais surtout pour être plus efficace ensuite. 
+
+
+
+
+      Ils se découvrent des qualités d’explosivité pour l’une ou en endurance de force pour l’autre et savent le travail à accomplir pour réduire leurs points faibles. 
+
+
+      Ils sont à un âge où ils seraient capables de grimper 3h par jour s’ils en avaient la possibilité, par ce qu’ils adorent ça mais aussi parce qu’il est communément admis qu’en faire toujours plus à l’entraînement c’est ce qu’il y a de mieux, bien malheureusement. 
+
+
+
+
+      Apprendre à s’entraîner, c’est apprendre à se reposer, à se ménager, parce qu’on maîtrise des éléments scientifiques (coefficient de monotonie, niveau de charge, contrainte, etc …) et qu’on est tout à fait confiant en programmant une séance de yoga ou de marche plutôt que une énième séance de force. 
+
+
+
+
+      Tous ces points vont dans le sens d’une approche globale de l’existence qui consiste simplement à être bien dans ses baskets, car on se voit sur un chemin qui mène à la progression, à la maîtrise d’un plus grand nombre savoirs et à sa capacité grandissante à  conduire sa vie de façon autonome. 
+
+
+
+
+      Il est plus que probable que la majorité de ces grimpeurs n’accèdera pas au plus haut niveau,  mais il me semble que le plus important est bien qu’ils aient grandi sportivement, intellectuellement tant sur un plan personnel que collectif et qu’ils puissent réinvestir dans leur vie personnelle ce mélange de sérieux et de jeu qu’auront été ces trois années de section sportive.
 ---
