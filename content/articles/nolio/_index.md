@@ -547,4 +547,13 @@ blocks:
     offset: center
     title: Indice de Monotonie
     type: paragraph
+  - type: figure
+    figure:
+      linear: false
+      screenshot: false
+      src: /images/uploads/capture-d-e-cran-2024-05-04-a-10.38.14.jpg
+      legend: Fenêtre Nöliö indiquant la charge hedbo selon Foster
+    grid: medium
+    offset: center
+    background: true
 ---
