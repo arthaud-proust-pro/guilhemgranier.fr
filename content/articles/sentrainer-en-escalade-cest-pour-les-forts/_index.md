@@ -148,16 +148,16 @@ blocks:
       Des concours de suspension à deux mains sur une réglette de 7mm ?
 
 
-      Je sais que j’exagère, mais hormis les grimpeurs élites qui ont un encadrement pointu ou ont fait le choix d’un coach perso, il n’y a que **très peu de personnes qui s’entraînent de façon structurée** tout au long de l’année dans ce sport.
+      Je sais que j’exagère, mais hormis les grimpeurs experts ou élites qui ont un savoir- faire en la matière ou encadrement pointu, **il n’y a pas beaucoup de personnes qui s’entraînent de façon structurée tout au long de l’année dans ce sport**.
 
 
-      Sans doute par manque d’outils, de connaissances mais aussi parce que ça ne les intéresse pas !
+      Sans doute par manque d’outils, de connaissances, d'envie de s'y pencher "sérieusement" mais aussi parce que ça ne les intéresse pas !
 
 
-      Réfléchir sa pratique c’est lui faire perdre son essence : simplicité, instinctivité et plaisir. Et je le comprends très bien.
+      **Pour ces derniers, réfléchir sa pratique c’est lui faire perdre son essence : simplicité, instinctivité et plaisir**. Et je le comprends très bien.
 
 
-      C’est donc aux autres, et il y en a beaucoup, que ce billet s’adresse. À ceux qui ont une autre approche, sans doute liée à un héritage provenant d’un autre sport où s’entraîner de façon rationnelle est commun.
+      Pourtant, je pense qu'il est possible et surtout absolument compatible avec la notion de plaisir/jeu, de structurer un entraînement efficace, pas si chronophage et surtout avec de très beaux résultats !
     title: Alors pourquoi si peu de choses visibles en escalade ?
   - notes:
       - text: Véronique Billat, est une physiologiste française, qui a consacré son
@@ -233,7 +233,7 @@ blocks:
       Ces deux séances vont se compléter l’une l’autre, car elles requièrent une disponibilité psychologique et physique tout à fait différente. 
 
 
-      Diversifier c’est aussi s’amuser car on se retrouve un peu créateur de ses propres entraînements, souvent glanés sur le web, dans des livres ou des discussions informelles, mais qu’il faut digérer à sa sauce pour les adapter à ses besoins.
+      **Diversifier c’est aussi s’amuser car on se retrouve un peu créateur de ses propres entraînements,** souvent glanés sur le web, dans des livres ou des discussions informelles, mais qu’il faut digérer à sa sauce pour les adapter à ses besoins.
     title: S’entraîner c’est sortir de la monotonie !
   - type: paragraph
     grid: small
