@@ -185,7 +185,7 @@ blocks:
     title: S’entraîner, c’est une expérience scientifique sur soi
     type: paragraph
   - type: figure
-    grid: medium
+    grid: small
     offset: center
     background: false
     figure:
