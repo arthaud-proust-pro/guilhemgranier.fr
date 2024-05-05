@@ -62,12 +62,12 @@ blocks:
       - id: 2
         text: Fait référence à un effort soutenu relativement bref. Cela reste quand
           même assez opaque quant à la définition de la fourchette de durée,
-          mais pour faire court de 1’ à 3’ environ.
+          mais pour faire court de 1’ à 2’30'' environ.
     align: start
     grid: small
     text: >-
-      En effet, la pratique reste très souvent la même : **on grimpe deux fois
-      par semaine en attendant qu’il se passe quelque chose.**
+      En effet, la pratique reste très souvent la même : **on grimpe une ou deux
+      fois par semaine en attendant qu’il se passe quelque chose.**
 
 
       Hormis quelques thématiques saisonnières pour les plus aguerris : de la conti\[\*], de la rési\[\*] et du travail dans les projets. Des tractions sur la barre à la maison si on est empêché d’aller à la salle ou en falaise, mais globalement, **pas de référence à une programmation**, un cycle de travail et des séances précises ciblant un thème.
