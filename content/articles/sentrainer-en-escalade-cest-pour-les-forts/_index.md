@@ -100,7 +100,7 @@ blocks:
       travail technique sur la foulée ...
     title: L'exemple du running
   - type: figure
-    grid: medium
+    grid: small
     offset: center
     background: false
     figure:
