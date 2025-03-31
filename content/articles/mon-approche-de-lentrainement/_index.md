@@ -141,7 +141,7 @@ blocks:
 
 
       Au cours de ces 4’, on observe assez rapidement une inflexion de la force appliquée (graphique ci-contre).
-    title: "Force à doits maximale vs Force critique "
+    title: "Force à doigts maximale vs Force critique "
   - type: figure
     figure:
       linear: false
